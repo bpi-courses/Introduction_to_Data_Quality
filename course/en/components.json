@@ -1,0 +1,4505 @@
+[
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Test your knowledge",
+    "displayTitle": "",
+    "body": "<p>What is good quality data?</p>",
+    "_id": "5f92e08b3b0a63208a7b0f17",
+    "_parentId": "5f92e0733b0a63208a7b0f16",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select the correct answer",
+    "_items": [
+      {
+        "text": "Data that has had lots of quality assurance checks",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Not quite.</p><p>Quality assurance checks are good to help understand the quality of data, but just because they are in place doesn't mean that the quality is good.&nbsp;</p>"
+      },
+      {
+        "text": "Data that is held in reporting systems",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Data can be cleaned when it is moved to a reporting system but it's not a guarantee of good quality. Also, good quality data can exist in operational systems too.</p>"
+      },
+      {
+        "text": "Data that is fit for the purpose for which it is used",
+        "_shouldBeSelected": true,
+        "feedback": "<p>Correct.&nbsp;</p><p>When data is fit for purpose it is&nbsp;less likely to be misleading and we can make effective decisions using the data.</p>"
+      },
+      {
+        "text": "Values with lots of decimal places",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Incorrect.</p><p>Having&nbsp;a lot of decimal points may mean that the value is very precise, but it doesn't mean that it's right, or consistent with other data.</p>"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": true,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Test your knowledge",
+    "displayTitle": "",
+    "body": "<p>What impacts can poor quality data have?</p>",
+    "_id": "5f92ed543b0a63208a7b0f25",
+    "_parentId": "5f92ed423b0a63208a7b0f24",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select all that apply ",
+    "_items": [
+      {
+        "text": "Regulatory fines",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Newspaper headlines",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "People die",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Wasted time",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Angry customers",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 3,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 5,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Correct.&nbsp;</p><p>Poor quality data can have a range of impacts.</p>",
+      "_incorrect": {
+        "final": "<p>Almost there.</p><p>They are all impacts of poor quality&nbsp;data.</p>",
+        "notFinal": "<p>Almost there.</p><p>Are there any other impacts that may be a results of poor quality data?</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>Almost there.</p><p>They are all impacts of poor quality&nbsp;data.</p>",
+        "notFinal": "<p>Almost there.</p><p>Are there any other impacts that may be a results of poor quality data?</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The data quality dimensions",
+    "displayTitle": "The data quality dimensions",
+    "body": "<p>According to the Data Management Association (DAMA), data quality dimensions are “measurable features or characteristics of data”. They can be used to make assessments of data quality and identify data quality issues&nbsp;</p><p>There are six core data quality dimensions, as defined by&nbsp;DAMA UK. This is not a prescriptive list and may vary depending upon your data and your users’ needs.</p><p>&nbsp;</p>",
+    "_id": "5f92f0653b0a63208a7b0f29",
+    "_parentId": "5f92e1903b0a63208a7b0f18",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select each dimension for more information",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Completeness",
+        "body": "<p>A data set is complete if it contains all the records that it should have and all essential values in a record are populated.</p><p>We measure completeness by looking at whether records, or values, are complete.</p><p>Example checks:</p><ul><li>all constituencies should be included in the election results dataset</li><li>every record in the customer list should have either an email address or a phone number</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Uniqueness",
+        "body": "<p>The data set should contain only one version of each thing it represents and each value should be stored once.</p><p>We measure uniqueness by looking at whether records&nbsp;or values&nbsp;are duplicated.</p><p>Example checks:</p><ul><li>each hospital ID should appear only once in the hospital location dataset</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Timeliness",
+        "body": "<p>A data set is timely if it is an accurate reflection of the period that it is for and the data set and its values are up to date.</p><p>We measure timeliness by looking at whether records are entered into the data set in an acceptable time, and whether the records match the time period we expect for the data set.</p><p>Example checks:</p><ul><li>all intelligence reports should be entered within 3 hours of receipt time</li><li>the forest surveys dataset should cover the period 1960 to current day</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Validity",
+        "body": "<p>A data set is valid if data is in the right format; falls into the correct range; or is in the list of valid values.</p><p>We measure validity by looking at whether values meet defined business rules.</p><p>Example checks:</p><ul><li>all school term start dates should be before end dates</li><li>all care home locations should be within the UK coastline&nbsp;</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Accuracy",
+        "body": "<p>A data set is accurate if values match reality.</p><p>We measure accuracy by looking at whether the values are true. This can be very difficult to measure for some data sets.</p><p>Note: Do not confuse this dimension with mathematical precision of numerical values</p><p>Example checks:</p><ul><li>all employees in the database should be current employees</li><li>addresses for customers should be right</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Consistency",
+        "body": "<p>A data set is consistent if data in different records and different fields do not contradict each other.</p><p>We can measure consistency by looking at how records in a data set match up with data in other sources, and by checking whether values in the same data set correspond with each other.</p><p>Example checks:</p><ul><li>all records should have a district council that falls within their county council</li><li>all employee base locations should appear on the national office list</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": false
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Using the data quality dimensions",
+    "displayTitle": "",
+    "body": "<p>Note: there are other versions of the dimensions, if your organisation&nbsp;has a set that works for you, keep using them.</p><p>Also, if you’re a statistician, you might be familiar with the European Statistical System quality dimensions. These dimensions apply to the quality of statistics, rather than raw data. The two sets of dimensions complement one another.</p>",
+    "_id": "5f92f1ae3b0a63208a7b0f2b",
+    "_parentId": "5f92f1993b0a63208a7b0f2a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What is this course?",
+    "displayTitle": "",
+    "body": "<p>This course will introduce you to the data quality framework and the&nbsp;subjects it covers. By the end of the course you will:​</p><ul><li><p>know about data quality</p></li><li><p>know why it is important to government&nbsp;​</p></li><li><p>be familiar with approaches and techniques that can help&nbsp;improve data quality management in your organisation.​</p></li></ul>",
+    "_id": "5fc7b7ee155d3830851b2eb5",
+    "_parentId": "5fc79c09155d3830851b2e95",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Course Structure",
+    "displayTitle": "Course Structure",
+    "body": "<p>The modules in this course are based on the 5 data quality principles&nbsp;that can be found <a href=\"http://www.gov.uk/government/publications/the-government-data-quality-framework/the-government-data-quality-framework#Data-Quality-Principles\" target=\"_blank\">in the data quality framework.</a></p><p>These principles are guidelines to aid the creation of a strong data quality culture in your team or organisation. They explain the best practice, procedures and attitudes that will be most helpful to ensure your data is fit for purpose.</p><p>Each principle is accompanied by a set of practices which support their adoption, which will be investigated in the accompanying module.&nbsp;The assess principles has been split into multiple modules.</p><p>The 5 principles are:</p><ol><li>Commit to data quality</li><li>Know your users and their needs</li><li>Assess quality throughout the data lifecycle</li><li>Communicate data quality clearly and effectively</li><li>Anticipate changes affecting data quality</li></ol><p>&nbsp;</p><p>The 8 modules available in this course are shown below;&nbsp;take the ones that are relevant to your role. You can return to the modules at anytime.</p>",
+    "_id": "5fc7bc63155d3830851b2ebd",
+    "_parentId": "600b0841680ed409e2f97e99",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select each module title to reveal further details ",
+    "_setCompletionOn": "inview",
+    "_items": [
+      {
+        "title": "Commit",
+        "body": "<p>For: everyone​</p><p>Content: The importance of data quality</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Know",
+        "body": "<p>For: everyone​</p><p>Content: Understanding user needs and the&nbsp;data lifecycle</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Assess - Dimensions",
+        "body": "<p>For: People managing/assessing quality​</p><p>Content: Criteria for assessing data quality</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Assess​ - Improvements",
+        "body": "<p>For: People managing quality​</p><p>Content: How to make effective improvements</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Assess - Good data quality management",
+        "body": "<p>For: People managing quality​</p><p>Content: How to understand quality of your data&nbsp;and make effective improvements</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Communicate",
+        "body": "<p>For: People managing quality, sharing data and&nbsp;using data​</p><p>Content: The importance of communicating data&nbsp;quality, and quality in metadata</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Anticipate",
+        "body": "<p>For: People managing quality</p><p>Content: The importance of change to data quality</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Next Steps",
+        "body": "<p>For: Everyone</p><p>Content: Making changes in your organisation and where to get support</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": false
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Communication matters",
+    "displayTitle": "",
+    "body": "<p>Communicating the quality of your&nbsp;data is very important. Poor quality data&nbsp;can still be useful as different users have different needs, however it is important that the user knows any&nbsp;problems that exist.&nbsp;​</p><p>It is important to clearly communicate the quality of your data so that users can&nbsp;understand whether it meets their needs. Users have different levels of expertise and different expectations of quality, good communication&nbsp;reduces the risk of data being misused.</p><p>Always share clear information about your dataset, as well&nbsp;as&nbsp;information about its quality.</p><p>You should use a variety of routes to communicate with&nbsp;users&nbsp;so they&nbsp;get the information they need.</p>",
+    "_id": "5fcfa811155d3830851b300f",
+    "_parentId": "5f92b6bf3b0a63208a7b0e85",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What do users need to know about data quality?",
+    "displayTitle": "What do users need to know about data quality?",
+    "body": "",
+    "_id": "5fcfab6c155d3830851b3013",
+    "_parentId": "5fcfab4b155d3830851b3012",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select each to find out more",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Known Issues",
+        "body": "<p>Any quality problems that have already been identified.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Results of Quality Assessments",
+        "body": "<p>Knowing if data is fit for one purpose&nbsp;can help users understand if it is fit for their purpose.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Cleansing or Standardisation ",
+        "body": "<p>Can help the data be properly used or&nbsp;combined with other sources.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Data Processing",
+        "body": "<p>Changes to how the data is produced may change&nbsp;the quality.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Caveats",
+        "body": "<p>Things about the dataset that need to be considered when&nbsp;it is used, this will improve the quality of what the data user creates.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Context",
+        "body": "<p>An understanding of why the data was collected.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Infrastructure",
+        "body": "<p>How the data was processed and stored.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": false
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Finding the root cause",
+    "displayTitle": "Finding the root cause",
+    "body": "<p>Start with the part of your data that has most problems, or the poor&nbsp;quality data that is important to most users.​</p><p>If we correct errors in data without understanding the&nbsp;reason&nbsp;they&nbsp;happened&nbsp;then the same errors will occur in the future.​</p><p>We should always investigate the cause of data quality problems&nbsp;and&nbsp;find the most effective improvements before cleaning data.&nbsp;</p>",
+    "_id": "5fd78953155d3830851b3049",
+    "_parentId": "5fd7894d155d3830851b3048",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The Government Data Quality Hub",
+    "displayTitle": "",
+    "body": "<p>This course has been created by the Government Data Quality Hub, or&nbsp;DQHub. The team is based in the Office for National Statistics.​</p><p>The&nbsp;DQHub&nbsp;is working to improve the quality and management of&nbsp;data and analysis across government.​</p><p>For more information and guidance on data quality in government,&nbsp;<u><a href=\"https://www.gov.uk/government/organisations/government-data-quality-hub\" target=\"_blank\"><span style=\"color:#FFFFFF\">see the&nbsp;DQHub&nbsp;website</span></a></u><span style=\"color:#FFFFFF\">.</span></p>",
+    "_id": "5fd8d3df155d3830851b3179",
+    "_parentId": "5fd8bfcb155d3830851b3172",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Other training available ",
+    "displayTitle": "Other training available ",
+    "body": "<p>There are other training courses that can support you in improving&nbsp;the quality of data and analysis.​</p><p>You might also consider:​</p><ul><li><p>Quality Statistics in Government course - coming soon!</p></li></ul>",
+    "_id": "5fd8da8f155d3830851b317b",
+    "_parentId": "5fd8da88155d3830851b317a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Bespoke Support",
+    "displayTitle": "",
+    "body": "<p>The&nbsp;DQHub&nbsp;offers bespoke support to organisations to improve their&nbsp;management of data quality.</p><p>There are resources on the <u><a href=\"https://www.gov.uk/government/organisations/government-data-quality-hub\" target=\"_blank\"><span style=\"color:#FFFFFF\">DQHub&nbsp;website</span></a></u> but they can also deliver training or support you with specific issues&nbsp;you’d like to tackle.&nbsp;​</p><p>For more information<u><span style=\"color:#FFFFFF\">,</span></u><span style=\"color:#FFFFFF\">&nbsp;</span><u><a href=\"mailto:dqhub@ons.gov.uk\"><span style=\"color:#FFFFFF\">email the DQHub.</span></a></u></p>",
+    "_id": "5fd8dacf155d3830851b317d",
+    "_parentId": "5fd8dac9155d3830851b317c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Data Quality and Change ",
+    "displayTitle": "",
+    "body": "<p>Changes in any dataset can cause changes in data quality.​​</p><p>If you’re a data user, you may need to adapt the way you use data if&nbsp;there are changes to the way that data is collected or processed.&nbsp;​</p><p>If you manage data, keep in mind changes that might have an impact&nbsp;on quality. This can include business process changes and IT changes.&nbsp;Make sure you understand the change and plan for its impact.</p>",
+    "_id": "5fd8f4b9155d3830851b3180",
+    "_parentId": "5f92b6d03b0a63208a7b0e88",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Data Quality in Design",
+    "displayTitle": "Data Quality in Design",
+    "body": "<p>When you are&nbsp;considering using a&nbsp;new dataset, data process or IT system, it’s&nbsp;never too early to think about data quality. Getting the design of data&nbsp;right will put you on a path to much better quality in the future.​</p><p>Engage with data architects and test your system, process or dataset&nbsp;thoroughly.​</p><p>For new data processes, make sure that data quality is maintained or&nbsp;improved as data is processed.&nbsp;</p>",
+    "_id": "5fd8f51d155d3830851b3182",
+    "_parentId": "5fd8f513155d3830851b3181",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Planning for substantial change",
+    "displayTitle": "",
+    "body": "<p>&nbsp;</p><p>&nbsp;</p><p>When substantial changes are happening to a dataset, for example&nbsp;moving to a new IT system or comprehensive changes to data&nbsp;processing, it’s particularly important to understand the quality of the&nbsp;data.​</p><p>Define your expectations of the data before the change happens. Assess the quality of the data and store the results. During and after the&nbsp;change, assess the data again and compare the two sets of results.​</p><p>Continue to monitor the quality of data after the change has occurred&nbsp;to ensure it continues to be fit for purpose.</p>",
+    "_id": "5fd8f905155d3830851b3184",
+    "_parentId": "5fd8f8ff155d3830851b3183",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Long term data quality ",
+    "displayTitle": "",
+    "body": "<p>The tools you've learned about in this course will help you anticipate&nbsp;and manage change, these include the following;</p><ul><li><p>use&nbsp;root cause analysis&nbsp;to solve data quality&nbsp;issues&nbsp;at source, rather&nbsp;than apply temporary fixes&nbsp;​</p></li><li><p>regularly communicate with users to&nbsp;keep up with&nbsp;changing data and&nbsp;quality requirements&nbsp;​</p></li><li><p>proactively consider the impact of&nbsp;changes in systems on data quality, don’t wait for people to find quality problems</p></li><li><p>integrate quality processes into the design of new&nbsp;data&nbsp;systems&nbsp;​</p></li><li><p>ensure metadata and other supporting documentation is&nbsp;thorough&nbsp;and&nbsp;up-to-date&nbsp;</p></li></ul>",
+    "_id": "5fd8f988155d3830851b3188",
+    "_parentId": "5fd8f981155d3830851b3187",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Test your knowledge",
+    "displayTitle": "Test your knowledge",
+    "body": "<p>You are&nbsp;responsible for data which is going to be migrated to a new&nbsp;system.</p><p>When should you first look at the quality of the data?​</p>",
+    "_id": "5fd8fbed155d3830851b318b",
+    "_parentId": "5fd8faa3155d3830851b318a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select the correct answer",
+    "_items": [
+      {
+        "text": "As soon as the data is migrated ",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Incorrect</p><p>Checking afterwards won't tell you if the migration had an impact on the quality of the data. It may have got worse.</p>"
+      },
+      {
+        "text": "When users start entering data on the new system",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Not quite.</p><p>Data migrations can cause quality problems.&nbsp; If you wait until users start entering data then you won't know if the rest of the data is acceptable quality.</p>"
+      },
+      {
+        "text": "Before the data is migrated",
+        "_shouldBeSelected": true,
+        "feedback": "<p>Correct.</p><p>If you measure before the data is migrated you've got a great baseline for the future, and you can check the quality hasn't got worse after migration.</p>"
+      },
+      {
+        "text": "When you share the data with others",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Not quite.</p><p>You should check the quality of data when its shared, but it's not the place to start. Migrations can introduce quality problems, don't assume everything has gone to plan.</p>"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "That is correct ",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "hotgraphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Communication routes",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5fda3e1d155d3830851b31aa",
+    "_parentId": "5fda0b7b155d3830851b3191",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select each pin to find out more",
+    "_setCompletionOn": "allItems",
+    "_graphic": {
+      "src": "course/en/assets/21c35d3a65b35688a0fea74958b349c4d1a959ff.svg",
+      "alt": "4 squares titled Dataset documentation, metadata, memorandum of understanding or service level agreement and regular updates via correspondence. ",
+      "attribution": ""
+    },
+    "mobileBody": "",
+    "mobileInstruction": "",
+    "_hidePagination": false,
+    "_canCycleThroughPagination": false,
+    "_isNarrativeOnMobile": true,
+    "_useNumberedPins": false,
+    "_useGraphicsAsPins": false,
+    "_isRound": false,
+    "_items": [
+      {
+        "title": "Dataset documentation",
+        "_ariaLevel": 0,
+        "body": "<p>It is&nbsp;good practice to include a document with data when&nbsp;it is&nbsp;published&nbsp;or shared. The document should include relevant information about&nbsp;the dataset, including a section on data quality.​</p><p>If the dataset updates regularly, the documentation should include only&nbsp;quality information that&nbsp;won’t&nbsp;change between versions. For example,&nbsp;“Data from 2004 is missing”&nbsp;won’t&nbsp;change, but “records are 96%&nbsp;complete” may change between versions.​​</p><p>This is a good route for communicating with external users.</p>",
+        "strapline": "Dataset documentation",
+        "_graphic": {
+          "src": "course/en/assets/71035a582204357af9aea9f3a46d2ba1d2c0540e.jpg",
+          "alt": "Cartoon person with magnifying glass looking at files",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 5,
+        "_top": 5
+      },
+      {
+        "title": "Metadata",
+        "_ariaLevel": 0,
+        "body": "<p>Metadata is information about data. It’s typically collected for data that organisations hold and it’s often brought together in a single place to help people find and use data well. Organisations may have a standard format for their metadata.</p><p>All data should have metadata and it should be kept up to date.</p><p>If the dataset updates regularly, the metadata should include only quality information that won’t change between versions.</p><p>This is a good route for communicating with users who have access to the metadata records.</p>",
+        "strapline": "Metadata",
+        "_graphic": {
+          "src": "course/en/assets/e4a80744a815147d1ecd98250d4dc399fbe54e55.jpg",
+          "alt": "Cartoon person with building blocks",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 55,
+        "_top": 5
+      },
+      {
+        "title": "Memorandum of Understanding or Service level agreement",
+        "_ariaLevel": 0,
+        "body": "<p>Some data will be shared under a Memorandum of Understanding or a Service Level Agreement. This acts as an agreement between the organisation sharing the data and the data user.</p><p>The agreement may include information about quality, it may include minimum standards for quality. It may specify actions to take if quality of the supplied data decreases, or if the data user finds quality problems.</p><p>Setting out quality information in this way ensures expectations are clear on both sides.</p><p>&nbsp;</p><p>This is a good route of communication where formal sharing agreements are in place. It should be supported by good dataset documentation and updates.</p>",
+        "strapline": "Memorandum of Understanding or Service level agreement",
+        "_graphic": {
+          "src": "course/en/assets/c5bf0e13664cb9cac0cc7c0fafe86eca1c8b9c39.jpg",
+          "alt": "2 cartoon people signing a piece of paper",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 5,
+        "_top": 55
+      },
+      {
+        "title": "Regular updates via correspondence",
+        "_ariaLevel": 0,
+        "body": "<p>Sometimes data quality changes unexpectedly. Sometimes changes to the dataset are likely to have quality impacts, for example when a new IT system is being introduced.</p><p>In these circumstances data owners should inform their data users directly of the change or expected change. This might take the form of email, or meeting with user groups, or any other method that engages the users.</p><p>Telling users about change ensures they can make adaptations to their own processes and uses.</p>",
+        "strapline": "Regular updates via correspondence",
+        "_graphic": {
+          "src": "course/en/assets/884a4c168d9f26ba7de6b6a1893286801e36ee5f.jpg",
+          "alt": "Cartoon person holding a dice with email symbol, envelope symbol and telephone symbol on it ",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 55,
+        "_top": 55
+      }
+    ]
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Test your knowledge",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5fdcc6c6155d3830851b3326",
+    "_parentId": "5fdcc64f155d3830851b3325",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_attempts": 2,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select a dimension",
+    "_items": [
+      {
+        "text": "Address records should have a non-null postcode.",
+        "_options": [
+          {
+            "text": "Completeness",
+            "_isCorrect": true
+          },
+          {
+            "text": "Uniqueness",
+            "_isCorrect": false
+          },
+          {
+            "text": "Timeliness",
+            "_isCorrect": false
+          },
+          {
+            "text": "Validity",
+            "_isCorrect": false
+          },
+          {
+            "text": "Accuracy",
+            "_isCorrect": false
+          },
+          {
+            "text": "Consistency",
+            "_isCorrect": false
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "Data Quality Dimensions",
+      "correct": "<p>Correct</p><p>The address is only considered complete if it contains a postcode.</p>",
+      "_incorrect": {
+        "final": "<p>The correct answer is complete.&nbsp;</p><p>The address is only considered complete if it contains a postcode.</p>",
+        "notFinal": "<p>Incorrect</p><p>Think about a typical address record. Which dimension deals with missing data?</p>"
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Test your knowledge",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5fdcde1a155d3830851b332a",
+    "_parentId": "5fdcde13155d3830851b3329",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_attempts": 2,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select a dimension",
+    "_items": [
+      {
+        "text": "County boundaries should not cross themselves",
+        "_options": [
+          {
+            "text": " Completeness",
+            "_isCorrect": false
+          },
+          {
+            "text": "Uniqueness",
+            "_isCorrect": false
+          },
+          {
+            "text": "Timeliness",
+            "_isCorrect": false
+          },
+          {
+            "text": "Validity",
+            "_isCorrect": true
+          },
+          {
+            "text": "Accuracy",
+            "_isCorrect": false
+          },
+          {
+            "text": "Consistency",
+            "_isCorrect": false
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "Data Quality Dimensions",
+      "correct": "<p>Correct</p><p>The data set has a rule that outlines of shapes must not cross over themselves. If they do then the county outlines will be invalid.</p>",
+      "_incorrect": {
+        "final": "<p>The correct answer is validity.&nbsp;</p><p>The data set has a rule that outlines of shapes must not cross over themselves. If they do then the county outlines will be invalid.</p>",
+        "notFinal": "<p>Incorrect</p><p>This one is hard! It’s a rule that specifies how data should be, so think about which dimension checks business rules</p>"
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Test your knowledge",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5fdce06a155d3830851b332c",
+    "_parentId": "5fdce062155d3830851b332b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_attempts": 2,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "Letters to customers shouldn’t be returned as undeliverable",
+        "_options": [
+          {
+            "text": "Completeness",
+            "_isCorrect": false
+          },
+          {
+            "text": "Uniqueness",
+            "_isCorrect": false
+          },
+          {
+            "text": "Timeliness",
+            "_isCorrect": false
+          },
+          {
+            "text": "Validity",
+            "_isCorrect": false
+          },
+          {
+            "text": "Accuracy",
+            "_isCorrect": true
+          },
+          {
+            "text": "Consistency",
+            "_isCorrect": false
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "Data Quality Dimensions",
+      "correct": "<p>Correct</p><p>This is a real-world check on the accuracy of the address data.</p>",
+      "_incorrect": {
+        "final": "<p>The correct answer is accuracy.</p><p>This is a real-world check on the accuracy of the address data.</p>",
+        "notFinal": "<p>Incorrect</p><p>Think about what’s happening –a letter has been posted using our data but it’s wrong. Which dimension deals with whether data matches reality?</p>"
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Test your knowledge",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5fdce60f155d3830851b332e",
+    "_parentId": "5fdce60a155d3830851b332d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_attempts": 2,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select a dimension",
+    "_items": [
+      {
+        "text": "Names of systems in the maintenance list should also appear on the master IT system list",
+        "_options": [
+          {
+            "text": " Completeness",
+            "_isCorrect": false
+          },
+          {
+            "text": "Uniqueness",
+            "_isCorrect": false
+          },
+          {
+            "text": "Timeliness",
+            "_isCorrect": false
+          },
+          {
+            "text": "Validity",
+            "_isCorrect": false
+          },
+          {
+            "text": "Accuracy",
+            "_isCorrect": false
+          },
+          {
+            "text": "Consistency",
+            "_isCorrect": true
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "Data Quality Dimensions",
+      "correct": "<p>Correct</p><p>This check compares the data in our data set to another source and confirms whether they’re giving the same information.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p>The correct answer is&nbsp;consistency.</p><p>This check compares the data in our data set to another source and confirms whether they’re giving the same information.</p>",
+        "notFinal": "<p>Incorrect</p><p>With this check we’re looking at whether data appears the same in another source. Which dimension deals with comparing data?</p>"
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Test your knowledge",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5fdce70e155d3830851b3330",
+    "_parentId": "5fdce70a155d3830851b332f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_attempts": 2,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select a dimension",
+    "_items": [
+      {
+        "text": "Hospital IDs should not appear more than once in the list",
+        "_options": [
+          {
+            "text": "Completeness",
+            "_isCorrect": false
+          },
+          {
+            "text": "Uniqueness",
+            "_isCorrect": true
+          },
+          {
+            "text": "Timeliness",
+            "_isCorrect": false
+          },
+          {
+            "text": "Validity",
+            "_isCorrect": false
+          },
+          {
+            "text": "Accuracy",
+            "_isCorrect": false
+          },
+          {
+            "text": "Consistency",
+            "_isCorrect": false
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "Data Quality Dimensions",
+      "correct": "<p>Correct</p><p>If the ID appears more than once then the data is not unique.</p>",
+      "_incorrect": {
+        "final": "<p>The correct answer is uniqueness</p><p>If the ID appears more than once then the data is not unique.</p>",
+        "notFinal": "<p>Incorrect</p><p>An ID is a code that represents a specific entity, like a hospital. Which dimension covers data appearing more than once in a data set?</p>"
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Test your knowledge",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5fdce7d2155d3830851b3332",
+    "_parentId": "5fdce7ca155d3830851b3331",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_attempts": 2,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select a dimension",
+    "_items": [
+      {
+        "text": "Records should be entered within five days of the application being received.",
+        "_options": [
+          {
+            "text": " Completeness",
+            "_isCorrect": false
+          },
+          {
+            "text": "Uniqueness",
+            "_isCorrect": false
+          },
+          {
+            "text": "Timeliness",
+            "_isCorrect": true
+          },
+          {
+            "text": "Validity",
+            "_isCorrect": false
+          },
+          {
+            "text": "Accuracy",
+            "_isCorrect": false
+          },
+          {
+            "text": "Consistency",
+            "_isCorrect": false
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "Data Quality Dimensions",
+      "correct": "<p>Correct</p><p>This check looks at whether records are being entered into the system within a reasonable time, if not then the data set is likely to be less fit for purpose.</p>",
+      "_incorrect": {
+        "final": "<p>The correct answer is timeliness.</p><p>This check looks at whether records are being entered into the system within a reasonable time, if not then the data set is likely to be less fit for purpose.</p>",
+        "notFinal": "<p>Incorrect</p><p>This check is looking at how up to date the data set is. Which dimension looks at whether data is up to date?</p>"
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Example: our address data is wrong",
+    "displayTitle": "Example: our address data is wrong",
+    "body": "<p>The address data in a department is incorrect. To&nbsp;rectify this, first the root causes must be identified;</p><p>Some examples of root causes include:</p><ul><li>postcodes are often incomplete and invalid</li><li>human error - people are entering bad data when the record is created</li><li>human error - no&nbsp;understanding of&nbsp;what “right” data is</li><li>human error - not enough&nbsp;time to input data correctly</li><li>the system is badly designed,&nbsp;postcodes can&nbsp;be left empty and there’s no way to select a postcode from a standard list</li><li>no national guidance for data entry has ever been created so people have been trained differently, and no one has put the data into context</li><li>there hasn’t been enough training</li></ul><p>&nbsp;</p><p>Steps to improve the data could include:&nbsp;</p><ul><li>creating some guidance</li><li>putting in place better training</li><li>starting a business case to get changes to the system design</li></ul><p>&nbsp;</p><p>After this has been done it may be cost effective to clean the existing records.</p>",
+    "_id": "5fdceaf7155d3830851b3334",
+    "_parentId": "5fdceaf2155d3830851b3333",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Data Users ",
+    "displayTitle": "Data Users ",
+    "body": "<p>Data users can reduce the risk of quality problems affecting their work by:</p><ul><li>making use of information provided about quality</li><li>talking to data owners about the data’s quality</li><li>considering all relevant caveats when using data</li><li>sharing any quality problems they find with the data owner</li></ul>",
+    "_id": "5fe0678e155d3830851b333a",
+    "_parentId": "5fe06722155d3830851b3339",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Data Owners",
+    "displayTitle": "Data Owners",
+    "body": "<p>Whatever communication&nbsp;route&nbsp;data owners use, they should ensure their communication:</p><ul><li>is clear and engaging</li><li>tells users what they need to know</li><li>is up to date</li></ul>",
+    "_id": "5fe067d0155d3830851b333b",
+    "_parentId": "5fe06722155d3830851b3339",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Test your Knowledge",
+    "displayTitle": "",
+    "body": "<p>You are doing some analysis and find a dataset you think might be useful. But there’s no documentation with them! Which of the following should you do?</p>",
+    "_id": "5fe068bc155d3830851b333e",
+    "_parentId": "5fe0688e155d3830851b333d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select all of the correct answers ",
+    "_items": [
+      {
+        "text": "Look at the metadata system to see if it is recorded",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Don’t use it, it isn’t safe",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Assess the content to see if it meets your needs",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Contact the data owner to find out more about it",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Use it anyway, it was produced by a government department so it must be ok",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 2,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": true,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 5,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Correct</p>",
+      "_incorrect": {
+        "final": "<p>Incorrect. The answers are;</p><ul><li>Look at the metadata system to see if it is recorded</li><li>Assess the content to see if it meets your needs</li><li>Contact the data owner to find out more about it</li></ul>",
+        "notFinal": "<p>Not quite, try again</p><p>Hint: there are 3&nbsp;correct answers</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>Incorrect. The answers are;</p><ul><li>Look at the metadata system to see if it is recorded</li><li>Assess the content to see if it meets your needs</li><li>Contact the data owner to find out more about it</li></ul>",
+        "notFinal": "<p>Not quite, try again</p><p>Hint: there are 3&nbsp;correct answers</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Test your knowledge",
+    "displayTitle": "",
+    "body": "<p>A dataset you are&nbsp;responsible for is being published as open data - anyone in the world will be able to use the data. What is the best way to share&nbsp;information about the quality?</p>",
+    "_id": "5fe06a87155d3830851b3340",
+    "_parentId": "5fe06a60155d3830851b333f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select all of the correct answers ",
+    "_items": [
+      {
+        "text": "In a metadata record that will appear on data.gov.uk",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "On the main page of your organisation’s website",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "In a document zipped up with the dataset",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Email users after they’ve downloaded the data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "A press release",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 2,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": true,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 5,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Correct</p>",
+      "_incorrect": {
+        "final": "<p>Incorrect. The answers are;</p><ul><li>In a metadata record that will appear on data.gov.uk</li><li>In a document zipped up with the dataset</li></ul><p>&nbsp;</p>",
+        "notFinal": "<p>Not quite, try again</p><p>Hint: there are 2 correct answers</p>"
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What does the lifecycle mean for quality?",
+    "displayTitle": "What does the lifecycle mean for quality?",
+    "body": "<p>Data quality is important at every stage of the lifecycle. But there will be different users at different stages and they may have different quality needs.</p><p>Different data quality problems might occur at each stage.</p><p>Always fix quality problems as early as possible in the data lifecycle.</p>",
+    "_id": "5fe0a2ac155d3830851b3384",
+    "_parentId": "5fe0a2ac155d3830851b3383",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Test your knowledge",
+    "displayTitle": "",
+    "body": "<p>Which stage of the data lifecycle is being described here?</p><p>At this stage:</p><ul><li>data structures are designed</li><li>validation rules are designed</li></ul>",
+    "_id": "5fe0ca08155d3830851b3387",
+    "_parentId": "5fe0c9e3155d3830851b3386",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select the correct answer",
+    "_items": [
+      {
+        "text": "Collect, acquire and ingest",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Use and process",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Plan",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Prepare, store and maintain",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 2,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Correct</p>",
+      "_incorrect": {
+        "final": "<p>Incorrect. The answer is:</p><p>Plan</p><p>&nbsp;</p>",
+        "notFinal": "<p>Incorrect. Try again</p><p>&nbsp;</p>"
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Test your knowledge",
+    "displayTitle": "",
+    "body": "<p>Which stage of the data lifecycle do data entry errors occur?</p>",
+    "_id": "5fe0cb46155d3830851b338a",
+    "_parentId": "5fe0cb46155d3830851b3389",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select the correct answer",
+    "_items": [
+      {
+        "text": "Collect, acquire and ingest",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Use and process",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Plan",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Prepare, store and maintain",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 2,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Correct</p>",
+      "_incorrect": {
+        "final": "<p>Incorrect. The answer is:</p><p>Collect, acquire and ingest</p><p>&nbsp;</p>",
+        "notFinal": "<p>Incorrect. Try again</p><p>&nbsp;</p>"
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Test your knowledge",
+    "displayTitle": "",
+    "body": "<p>Which stage of the data lifecycle is important for data quality?</p>",
+    "_id": "5fe0cbf7155d3830851b338d",
+    "_parentId": "5fe0cbf7155d3830851b338c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select the correct answer",
+    "_items": [
+      {
+        "text": "Plan",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Collect, acquire and ingest",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Prepare, store and maintain",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Use and process",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Share and publish",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Archive or destroy",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "All of the above",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 2,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Correct</p>",
+      "_incorrect": {
+        "final": "<p>Incorrect. The answer is:</p><p>All of the above</p><p>&nbsp;</p>",
+        "notFinal": "<p>Incorrect. Try again</p><p>&nbsp;</p>"
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "flipcard",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The what, why, who and when of data quality ",
+    "displayTitle": "The what, why, who and when of data quality ",
+    "body": "",
+    "_id": "5fff3384680ed409e2f97d8d",
+    "_parentId": "5fff3378680ed409e2f97d8c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select each tile to find out more",
+    "_flipType": "singleFlip",
+    "_flipTime": 400,
+    "_items": [
+      {
+        "_flipDirection": "horizontal",
+        "frontImage": {
+          "alt": "The word What ",
+          "src": "course/en/assets/26a7c000e5257c3657a1ce54e40429de4da49e99.svg"
+        },
+        "backTitle": "What is data quality?",
+        "backBody": "<p>Data is high quality if it is fit for its intended purpose.</p><p>When data is fit for purpose it is&nbsp;less likely to be misleading and we can make effective decisions using the data.</p><p>Government data gets used in lots of different ways. It may be fit for its original purpose but unfit for other purposes. If so, it is important that we know about those quality concerns.</p>"
+      },
+      {
+        "_flipDirection": "horizontal",
+        "frontImage": {
+          "alt": "The word Why ",
+          "src": "course/en/assets/2313657100534b6284f93b4596133784f7a606e3.svg"
+        },
+        "backTitle": "Why is data quality important?",
+        "backBody": "<p>Good quality data helps us understand society, improve services and design effective policies.</p><p>But using data that is not fit for purpose can mislead people and result in the wrong decisions being made.</p><p>Poor quality data can have reputational, legal and financial impacts.</p><p>Different data sets will have different risks. In some instances, lives&nbsp;may depend on having good quality data.&nbsp;</p><p>Data quality is just one aspect of good data management.​</p><p>Having good data ownership and governance will help with managing&nbsp;quality.​</p><p>Using data standards will help make your data more consistent and&nbsp;make it easier to use&nbsp;and share with others.</p>"
+      },
+      {
+        "_flipDirection": "horizontal",
+        "frontImage": {
+          "alt": "The word Who",
+          "src": "course/en/assets/24c343d90a8bf00143c714fd9d45031009640275.svg"
+        },
+        "backTitle": "Who is responsible for data quality?",
+        "backBody": "<p>Everyone has a responsibility for ensuring&nbsp;data is good quality.​</p>"
+      },
+      {
+        "_flipDirection": "horizontal",
+        "frontImage": {
+          "alt": "The word When",
+          "src": "course/en/assets/0093419874b9ae0b484893dd71b020c415c0aee3.svg"
+        },
+        "backTitle": "When is data quality important?",
+        "backBody": "<p>Data quality is important at every stage of the data lifecycle. But&nbsp;different people will be involved at different&nbsp;stages.​</p><p>There is more information about the data&nbsp;lifecycle in the Know&nbsp;module of this course.&nbsp;​</p>"
+      }
+    ]
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Meeting user needs",
+    "displayTitle": "",
+    "body": "<p>It is important to consider who will using the data when improving it's quality&nbsp;</p>",
+    "_id": "600196c4680ed409e2f97dc8",
+    "_parentId": "600196b2680ed409e2f97dc7",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Use the arrows to navigate",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "What is a user?",
+        "_ariaLevel": 0,
+        "body": "<p>A data user is anyone who uses data, even if they use it in a way that’s&nbsp;different from the purpose it was designed&nbsp;for.​</p><p>The team that’s responsible for the data might be the main user, but&nbsp;other users might&nbsp;include:&nbsp;other teams; other government&nbsp;organisations; businesses; and members of the&nbsp;public.</p>",
+        "_graphic": {
+          "src": "course/en/assets/a32db03911ae9dfc7d3b8dd045bc73590a4c3138.jpg",
+          "alt": "3 people sat looking at their laptops",
+          "attribution": ""
+        },
+        "strapline": "Data users"
+      },
+      {
+        "title": "Users' needs",
+        "_ariaLevel": 0,
+        "body": "<p>Different users will&nbsp;use&nbsp;data in different ways, so they need different&nbsp;things from the data.​</p><p>Users might need data to contain certain fields, to use certain&nbsp;standards, or to be updated with a certain frequency.</p>",
+        "_graphic": {
+          "src": "course/en/assets/db702d0e56c6ea270d563258dc6742f79ebe2233.jpg",
+          "alt": "4 people sat casually around a coffee table",
+          "attribution": ""
+        },
+        "strapline": "User needs"
+      },
+      {
+        "title": "Meeting users' need",
+        "_ariaLevel": 0,
+        "body": "<p>Understanding the needs of data users can help make data more&nbsp;usable.​</p><p>It isn’t always possible to know all data users, especially where data is&nbsp;published for anyone to use.&nbsp;​</p><p>It may not be possible to ensure that data meets the needs of its&nbsp;users, or needs may conflict with each other. Data owners should&nbsp;make this clear to users.</p>",
+        "_graphic": {
+          "src": "course/en/assets/d6fa6041716013e474d29500fc95501590cd79a2.jpg",
+          "alt": "Handshake between 2 people",
+          "attribution": ""
+        },
+        "strapline": "Meet users need"
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Improving the quality of data",
+    "displayTitle": "",
+    "body": "<p>Understanding the quality of our data is important but when we find&nbsp;data quality&nbsp;problems&nbsp;we need to make improvements.​</p><p>Perfect quality is almost always impossible. And, even if it is&nbsp;possible, it would cost a huge amount of time and money to achieve.&nbsp;​</p><p>So&nbsp;our improvements must focus on addressing quality problems that&nbsp;are keeping our data from being fit for purpose.</p>",
+    "_id": "6009bd20680ed409e2f97e6c",
+    "_parentId": "6009bd1a680ed409e2f97e6b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "pageNav",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6009be5e680ed409e2f97e6f",
+    "_parentId": "6009be57680ed409e2f97e6e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": true,
+        "text": "Next",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_component": "pageNav",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Navigation",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6009bed9680ed409e2f97e72",
+    "_parentId": "6009bed2680ed409e2f97e71",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": true,
+        "text": "Next",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_component": "pageNav",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Navigation",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6009bf0b680ed409e2f97e75",
+    "_parentId": "6009bf05680ed409e2f97e74",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": true,
+        "text": "Next",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_component": "pageNav",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Navigation",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6009bf2d680ed409e2f97e78",
+    "_parentId": "6009bf26680ed409e2f97e77",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": true,
+        "text": "Next",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_component": "pageNav",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6009bf6e680ed409e2f97e7e",
+    "_parentId": "6009bf68680ed409e2f97e7d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": true,
+        "text": "Next",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_component": "pageNav",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6009bf90680ed409e2f97e81",
+    "_parentId": "6009bf8a680ed409e2f97e80",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": true,
+        "text": "Next",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_component": "pageNav",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6009bfae680ed409e2f97e84",
+    "_parentId": "6009bfa8680ed409e2f97e83",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": true,
+        "text": "Next",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_component": "pageNav",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Navigation",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6009bffd680ed409e2f97e87",
+    "_parentId": "6009bff5680ed409e2f97e86",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": true,
+        "text": "Next",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_component": "blinds",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What is data?",
+    "displayTitle": "",
+    "body": "<p>Data is defined as facts and statistics collected together for reference or analysis.&nbsp;</p><p>There are many types and forms&nbsp;of government data. Some is collected in real time, some is entered by our staff or customers, some is gathered through research and surveys.</p><p>Below are some examples of data held by the UK government.&nbsp;</p>",
+    "_id": "6012c58b680ed409e2f97ef3",
+    "_parentId": "6012c583680ed409e2f97ef2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select each picture for more information ",
+    "_setCompletionOn": "inview",
+    "height": 500,
+    "_expandBy": 2,
+    "_items": [
+      {
+        "src": "course/en/assets/cdd6982cf76372b2a75b557ecd55a8be2930a422.jpg",
+        "_captions": [
+          {
+            "text": "Food imports",
+            "top": "",
+            "left": "",
+            "width": ""
+          }
+        ]
+      },
+      {
+        "src": "course/en/assets/7fc25ad0987dc9349d50eb7cccca544719ba6e6c.jpg",
+        "_captions": [
+          {
+            "text": "Hazardous waste exports",
+            "top": "",
+            "left": "",
+            "width": ""
+          }
+        ]
+      },
+      {
+        "src": "course/en/assets/6a0d87d31ff8727c1038d6f1f2c0965dc9aa03ab.jpg",
+        "_captions": [
+          {
+            "text": "Government spending",
+            "top": "",
+            "left": "",
+            "width": ""
+          }
+        ]
+      },
+      {
+        "src": "course/en/assets/49eebd14928bb8248d4fae6cb7b445e5276028b4.jpg",
+        "_captions": [
+          {
+            "text": "Renewable energy sources",
+            "top": "",
+            "left": "",
+            "width": ""
+          }
+        ]
+      },
+      {
+        "src": "course/en/assets/5a9a031de9f280a5a4c97281349d7920fdfce8bb.jpg",
+        "_captions": [
+          {
+            "text": "School league tables",
+            "top": "",
+            "left": "",
+            "width": ""
+          }
+        ]
+      },
+      {
+        "src": "course/en/assets/46a79655b69349babe9ea0bb57fdcdb57658c010.jpg",
+        "_captions": [
+          {
+            "text": "Population figures",
+            "top": "",
+            "left": "",
+            "width": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_component": "hotgraphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The Data Lifeycle",
+    "displayTitle": "The Data Lifeycle",
+    "body": "<p>The data lifecycle is a way of describing the different stages data may&nbsp;go through during its lifetime.​</p><p>Understanding the lifecycle of a data set can help you understand:​</p><ul><li><p>different data users​</p></li><li><p>where quality problems happen​</p></li></ul><p>​It will be different for all data sets.</p><p>&nbsp;</p><p>The data lifecycle can and should change depending on what data is being collected or produced and used. ​</p><p>Some organisations might&nbsp;emphasise different steps, or&nbsp;include different&nbsp;steps.</p><p>&nbsp;</p>",
+    "_id": "601933ee680ed409e2f97f0b",
+    "_parentId": "601933d9680ed409e2f97f0a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click on each pin to find out more",
+    "_setCompletionOn": "allItems",
+    "_graphic": {
+      "src": "course/en/assets/3e4947f6bacd1e4bad60a8c9a809439c85d1e2fb.svg",
+      "alt": "",
+      "attribution": ""
+    },
+    "mobileBody": "",
+    "mobileInstruction": "",
+    "_hidePagination": false,
+    "_canCycleThroughPagination": false,
+    "_isNarrativeOnMobile": true,
+    "_useNumberedPins": false,
+    "_useGraphicsAsPins": false,
+    "_isRound": false,
+    "_items": [
+      {
+        "title": "Plan",
+        "_ariaLevel": 0,
+        "body": "<p>This stage will happen when a new system or data set will be created, or when changes will be made to an existing system or data set.</p><p>In this stage, an organisation decides what data it needs, how it will be collected, designed and stored.</p><p>This stage is&nbsp;important for data quality because the right design and processes can help to minimise problems in the future.</p><p>Data quality problems that could happen at this stage include:</p><ul><li>the design is wrong, limiting good data collection or encouraging bad data</li><li>lack of data validation rules, missing the chance to validate data</li><li>not using good reference data, leading to inconsistency with other data</li></ul>",
+        "strapline": "Plan",
+        "_graphic": {
+          "src": "course/en/assets/a0f6d3a228dea60ddca826af115bba8a96cbc54e.svg",
+          "alt": "3 cartoon notepads putting notes on a wall  ",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 2,
+        "_top": 2
+      },
+      {
+        "title": "Collect, acquire, ingest",
+        "_ariaLevel": 0,
+        "body": "<p>This is the stage where data is obtained into an organisation. This may be a one-off, or it may be ongoing throughout the lifetime of the data set.</p><p>Getting the data right as it enters the organisation is important and will reduce the need for rework later on.</p><p>Data quality problems that could happen at this stage include:</p><ul><li>mistakes in data entered</li><li>incomplete data</li><li>duplicated data</li></ul>",
+        "strapline": "Collect, acquire, ingest",
+        "_graphic": {
+          "src": "course/en/assets/70f7380e57809158a84ec80cf7b0d9024e742094.svg",
+          "alt": "Cartoon note pad holding a folder with notes in and above with arrows pointing down to the folder",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 38,
+        "_top": 2
+      },
+      {
+        "title": "Prepare, store and maintain",
+        "_ariaLevel": 0,
+        "body": "<p>This stage covers general maintenance of the data in its initial location, and the stage where data may be moved to a reporting environment or reformatted into a data product.</p><p>This is an important stage for data quality because it includes the ongoing management of data, it is also the point at which data might be standardised, matched with other data or otherwise transformed.</p><p>Data quality problems that could happen at this stage include:</p><ul><li>quality isn’t monitored</li><li>data cleansing doesn’t meet user needs</li><li>inconsistent standards applied to the data</li></ul>",
+        "strapline": "Prepare, store and maintain",
+        "_graphic": {
+          "src": "course/en/assets/c99edd4debb87050dad034e1e80f753bd90110c6.svg",
+          "alt": "Cartoon note pad putting piece of paper into a box full of papers",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 75,
+        "_top": 2
+      },
+      {
+        "title": "Use and process",
+        "_ariaLevel": 0,
+        "body": "<p>In this stage, data is used. This may be direct use from within a system, or use in other outputs such as data science or analysis projects.</p><p>Data users need to know the quality of the data they use, and they need to ensure they don’t introduce new quality problems.</p><p>Data quality problems that could happen at this stage include:</p><ul><li>processing introduces new errors</li><li>users don’t take account of quality problems</li><li>problems are ignored or worked around, or&nbsp;not communicated to data owners</li></ul>",
+        "strapline": "Use and process",
+        "_graphic": {
+          "src": "course/en/assets/781fc6717f8ac003fa35cf9a17926eeb73ec7813.svg",
+          "alt": "Cartoon note pads in 3 groups, one with a lightbulb above, another high fiving and the last walking away from each other",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 75,
+        "_top": 62
+      },
+      {
+        "title": "Share and publish",
+        "_ariaLevel": 0,
+        "body": "<p>In this stage, data is shared with others. This ranges from sharing with another team in the same organisation, to publishing a data set for the public to use.</p><p>Communicating data quality is very important at this stage. Some data sets may also be cleaned or standardised before they are shared.</p><p>Data quality problems that could happen at this stage include:</p><ul><li>information about quality isn’t shared with the data, leading to data being badly used</li><li>cleansing is inconsistent or doesn’t meet user needs</li><li>design of the shared data varies over time</li></ul>",
+        "strapline": "Share and publish",
+        "_graphic": {
+          "src": "course/en/assets/ac8cf31c4400edb5ba6ec56a8c625fca946e8f76.svg",
+          "alt": "Cartoon note pad stood in front of group pointing to a bar chart ",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 38,
+        "_top": 62
+      },
+      {
+        "title": "Archive or destroy",
+        "_ariaLevel": 0,
+        "body": "<p>In this stage, data is destroyed when it is no longer needed, or archived for future reference.</p><p>Quality is important at this stage because errors could be introduced when data is archived, and future users need to know about the quality of that data.</p><p>Data quality problems that could happen at this stage include:</p><ul><li>archiving processes introduce errors</li><li>information about quality is not stored with the data</li><li>changes could be made to data after it has been archived</li></ul>",
+        "strapline": "Archive or destroy",
+        "_graphic": {
+          "src": "course/en/assets/104e8c24d00154ff85546e4fdce7f4534e077626.png",
+          "alt": "Cartoon note pad putting a piece of paper in a shredder",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 2,
+        "_top": 62
+      }
+    ]
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Test your knowledge",
+    "displayTitle": "",
+    "body": "<p>When plotting our schools data on a map they all appear in the North Sea.&nbsp;</p><p>Which fix will be most&nbsp;effective in the long run?</p>",
+    "_id": "60197854680ed409e2f97f25",
+    "_parentId": "601977a9680ed409e2f97f24",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select the correct answer",
+    "_items": [
+      {
+        "text": "Fix the locations so they appear in the right countries",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Not quite right, although this would make the data correct, it is very time consuming and the same error could occur in the future, so the fixing would have to be repeated.</p>"
+      },
+      {
+        "text": "Delete all the values in the location field",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Incorrect. This would remove the error but the data would then be incomplete.&nbsp;</p>"
+      },
+      {
+        "text": "Train data entry staff on how to enter location data",
+        "_shouldBeSelected": true,
+        "feedback": "<p>Correct! By addressing the issues as soon in the data journey as possible the lower the chance of&nbsp;the problem will happening again.</p>"
+      },
+      {
+        "text": "Hide the location box on the system",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Incorrect. This does not&nbsp;solve the problem as the data is still wrong.&nbsp;</p>"
+      }
+    ],
+    "_attempts": 2,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Correct! By addressing the issues as soon in the data journey as possible the lower the chance of&nbsp;the problem will happening again.</p>",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Test your knowledge",
+    "displayTitle": "",
+    "body": "<p>We published a data set that has quality problems. Lots of the site names are blank.&nbsp;</p><p>Where would be the most effective place to fix it?</p>",
+    "_id": "60197cf5680ed409e2f97f27",
+    "_parentId": "60197cee680ed409e2f97f26",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select the correct answer",
+    "_items": [
+      {
+        "text": "Fix the published file, that is where the public can see it",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Incorrect, If you fix the published file, the data will still be wrong internally, and it will be wrong the next time the file is published.</p>"
+      },
+      {
+        "text": "Fix the operational system, that is where the data is entered",
+        "_shouldBeSelected": true,
+        "feedback": "<p>Correct! Fixing the operational system is the best option. By getting the data right at the start, all users will benefit from the correct data.</p>"
+      },
+      {
+        "text": "Put a fix in the automated process that creates the file, the computer can mix in data from another source",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Not quite right. Adding data in during the process means that the correct data is still missing in the source. This would be a sensible option only if it was impossible to fix the source system, for example if the data was coming from an external organisation who couldn't make the change.</p>"
+      },
+      {
+        "text": "Create another data set with just the site names and an ID, users can join the data and this minimises change",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Incorrect, this is a work around and the quality of the data is still not fit for purpose.</p>"
+      }
+    ],
+    "_attempts": 2,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Correct! Fixing the operational system is the best option. By getting the data right at the start, all users will benefit from the correct data.</p>",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Now it's your turn",
+    "displayTitle": "Now it's your turn",
+    "body": "<p>Pick one of the following things to do;</p><ol><li>Tell a colleague or friend something that you have learnt about data quality</li><li>Ask a colleague or manager&nbsp;about the quality of the data that you use in your work</li><li>Go away and look&nbsp;at the <a href=\"https://www.gov.uk/government/publications/the-government-data-quality-framework\" target=\"_blank\">Data Quality Framework</a></li><li>Get in touch with the <a href=\"mailto:DQHub@ons.gov.uk\">DQHub</a> for more information&nbsp;</li></ol>",
+    "_id": "601abf6d680ed409e2f97f3c",
+    "_parentId": "601abf67680ed409e2f97f3b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Tackling data quality issues",
+    "displayTitle": "",
+    "body": "<p>There are lots ways to tackle data quality problems.</p><p>Good&nbsp;improvements should:​</p><ul><li><p>have a long-term effect​</p></li><li><p>should address problems with the greatest impact&nbsp;​</p></li><li><p>tackle the root cause of a problem&nbsp;​</p></li><li><p>happen as early as possible in the data lifecycle​</p></li><li><p>be&nbsp;cost&nbsp;effective​</p></li></ul>",
+    "_id": "601c1a64680ed409e2f97fd2",
+    "_parentId": "601c1a57680ed409e2f97fd1",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "601c1a6c680ed409e2f97fd3",
+    "_parentId": "601c1a57680ed409e2f97fd1",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Bar Chart showing steady increase with a green arrow pointing diagonally from the start to the end ",
+      "large": "course/en/assets/44bb8f0678be431ad4d5b272ededd1391178ab45.svg",
+      "small": "course/en/assets/44bb8f0678be431ad4d5b272ededd1391178ab45.svg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Data culture for the future",
+    "displayTitle": "",
+    "body": "<p>&nbsp;</p><p>Having a strong data culture in your organisation is the best possible foundation for dealing with challenges that will arise for your data.</p><p>If people have the right skills, knowledge and approaches to data then they will be better able to adapt to changing data needs, to new data sources and to changes in systems.&nbsp;</p>",
+    "_id": "60256e2c680ed409e2f9803c",
+    "_parentId": "602565ad680ed409e2f9803b",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Data culture matters",
+    "displayTitle": "",
+    "body": "<p>Data informs the way organisations are run, how budgets are spent and how work is resourced. It's also the foundation of policy decisions in government.</p><p>Organisations are careful in the way they manage their financial assets, data also needs to be properly managed so that it can fully support decisions made and actions taken.</p><p>This starts with a strong data culture.</p>",
+    "_id": "60256e63680ed409e2f9803d",
+    "_parentId": "602559d6680ed409e2f98039",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Good data quality culture",
+    "displayTitle": "Good data quality culture",
+    "body": "<p>Every organisation has its own approaches to data. The people and processes involved will vary depending on the types of data the organisation has, the size of the organisation, and the way it uses the data.</p><p>A good data culture in an organisation means that:</p><ul><li>people understand that data is important</li><li>people know their responsibilities towards data</li><li>data is protected where needed, but it's also shared where possible</li><li>decisions start with data</li><li>the right data policies and processes are in place, and people act on them</li></ul>",
+    "_id": "60256e8c680ed409e2f9803e",
+    "_parentId": "60255c6c680ed409e2f9803a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Managing quality",
+    "displayTitle": "",
+    "body": "<p>The quality of all of your data should be considered, however&nbsp;the quality of important datasets needs to be actively monitored and managed. For some datasets this may be done by one person, for some there may be a team responsible.</p><p>Your organisation may have set criteria or processes for managing quality. If you're responsible for a dataset, check what guidance is available.</p>",
+    "_id": "60300757680ed409e2f9809c",
+    "_parentId": "602ff9cf680ed409e2f9809b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What next?",
+    "displayTitle": "",
+    "body": "<p>When you have evidence about the quality of your dataset and whether it it fit for purpose, you can make improvements to tackle aspects of the data that don't meet your expectations. These are covered more in the Improvements module.</p><p>You should see the impact of your improvements in the quality of your data over time. If not, look again at how you can address the root cause of the quality problem.</p>",
+    "_id": "60300e2c680ed409e2f980a7",
+    "_parentId": "60300e21680ed409e2f980a6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Tools and techniques",
+    "displayTitle": "Tools and techniques",
+    "body": "<p>The Government Data Quality Hub recommends using Data Quality Action Plans (DQAPs) to bring these good practices together.</p><p>A DQAP contains: a defined set of measurements to establish whether a dataset is fit for purpose; results of the measurements; root cause analysis of problem areas; agreed actions for addressing quality problems.</p><p>For more information about DQAPs, email the Government Data Quality Hub at dqhub@ons.gov.uk</p>",
+    "_id": "60300ed4680ed409e2f980a9",
+    "_parentId": "60300ebd680ed409e2f980a8",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "flipcard",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What does good look like?",
+    "displayTitle": "What does good look like?",
+    "body": "<p>Good data quality measurements should be:</p><ul><li>Evidence based</li><li>Prioritised</li><li>Proactive</li></ul><p>&nbsp;</p>",
+    "_id": "60390fc1680ed409e2f9818a",
+    "_parentId": "60300a02680ed409e2f980a0",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select each tile to find out more ",
+    "_flipType": "allFlip",
+    "_flipTime": 400,
+    "_items": [
+      {
+        "_flipDirection": "horizontal",
+        "frontImage": {
+          "alt": "Text that says evidence based on a navy background",
+          "src": "course/en/assets/ac5446a21006a27deaffd30568dc2bed8975b3c7.svg"
+        },
+        "backTitle": "Evidence based",
+        "backBody": "<p>Listen to your users if they tell you about quality problems, this can highlight&nbsp;areas of data that may be suffering from poor quality. However,&nbsp;anecdotal evidence isn't enough on it's own&nbsp;to properly understand the quality of your dataset.</p><p>You can use the data quality dimensions to directly measure the quality of the data values in your datasets.</p><p>You should define a set of measurements that will give you clear, useful evidence about the quality of your dataset.</p>"
+      },
+      {
+        "_flipDirection": "horizontal",
+        "frontImage": {
+          "alt": "Test that says prioritised on a navy background",
+          "src": "course/en/assets/cb3ef9bd287503e2af1e14200e5dcf59e859df18.svg"
+        },
+        "backTitle": "Prioritised ",
+        "backBody": "<p>The dimensions are always useful but they are most effective when they're used to measure the right things.</p><p>You should start with the datasets that are most important to your organisation.</p><p>Within your dataset, start by measuring the fields or records that have the biggest impact on fitness for purpose. Resist the instinct to measure everything! If you focus on fields or criteria that don't matter, you may miss the problems that are having bigger impacts.</p><p>Always focus on the purpose of the data.</p>"
+      },
+      {
+        "_flipDirection": "horizontal",
+        "frontImage": {
+          "alt": "Text that says proactive on a navy background",
+          "src": "course/en/assets/8d57f739fdfdba413a191c3600a33b3626f12da5.svg"
+        },
+        "backTitle": "Proactive",
+        "backBody": "<p>When you've defined how to measure your dataset, record the results. Agree a schedule for re-measuring the quality regularly.</p><p>Checking the quality regularly will give you early warning of any problems, and show you whether the improvements you make are having an effect.</p><p>Different datasets will need checking at different intervals. A fast-changing operational dataset (such as customer details) may need checking every month, a slow-changing dataset (such as constituency boundaries) may need checking only after major updates.</p><p>Whatever frequency you decide, regularly re-measure the quality and record the results.</p>"
+      }
+    ]
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Foundations for dealing with data changes",
+    "displayTitle": "",
+    "body": "",
+    "_id": "603cd06e680ed409e2f9819f",
+    "_parentId": "602565ad680ed409e2f9803b",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Jenga blocks being built into a tower ",
+      "large": "course/en/assets/27b91430a173a0f5242e9a6b432af4fe4e1166aa.jpg",
+      "small": "course/en/assets/27b91430a173a0f5242e9a6b432af4fe4e1166aa.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "monitor data",
+    "displayTitle": "",
+    "body": "",
+    "_id": "603cd4aa680ed409e2f981a3",
+    "_parentId": "5fd8f8ff155d3830851b3183",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Cartoon person looking through red binoculars ",
+      "large": "course/en/assets/8c843d064b11711d8ec87cc560c709e2e8c27b42.jpg",
+      "small": "course/en/assets/8c843d064b11711d8ec87cc560c709e2e8c27b42.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Adapt to change",
+    "displayTitle": "",
+    "body": "",
+    "_id": "603cd731680ed409e2f981b8",
+    "_parentId": "5f92b6d03b0a63208a7b0e88",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Arrow pointing to a square and new arrow going around to point to a circle and another arrow going around to point forward",
+      "large": "course/en/assets/ee6baaef75738135b8ae6b2ac0de8643299e20e3.svg",
+      "small": "course/en/assets/ee6baaef75738135b8ae6b2ac0de8643299e20e3.svg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Communication methods",
+    "displayTitle": "",
+    "body": "",
+    "_id": "603cdf73680ed409e2f981c7",
+    "_parentId": "5f92b6bf3b0a63208a7b0e85",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Icons of a message bubble, mobile phone, envelope, laptop, envelope with letter halfway out, telephone, headphone headset and a megaphone",
+      "large": "course/en/assets/21c14f5e4b2a945e44e485981e8469bcd37b3d99.svg",
+      "small": "course/en/assets/21c14f5e4b2a945e44e485981e8469bcd37b3d99.svg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "pageNav",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Page navigation",
+    "displayTitle": "",
+    "body": "",
+    "_id": "603ce306680ed409e2f981d7",
+    "_parentId": "603ce2ff680ed409e2f981d6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": true,
+        "text": "Next",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Test your knowledge",
+    "displayTitle": "",
+    "body": "<p>Which of the following&nbsp;is important when measuring data quality?</p>",
+    "_id": "603f7539680ed409e2f98255",
+    "_parentId": "60391a16680ed409e2f98192",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select the correct answer ",
+    "_items": [
+      {
+        "text": "Recording your findings ",
+        "_shouldBeSelected": true,
+        "feedback": "<p>Correct.&nbsp;</p><p>By recording the results of your measurements you can see changes over time.</p>"
+      },
+      {
+        "text": "Checking all the dimensions in every field in the dataset",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Not quite.</p><p>Focus on the parts of the data that matter most to your outcomes. If you measure everything you may be worrying about errors that aren’t having any impact.</p>"
+      },
+      {
+        "text": "Reporting spelling errors to management",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Not quite.</p><p>Focus on the health of the dataset as a whole. If errors are compromising the use of the data, make sure the right people know that the data isn’t fit for purpose. Individual errors can be tackled after the root cause has been addressed</p>"
+      },
+      {
+        "text": "Aiming for perfect quality",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Not quite.</p><p>Perfect quality is almost always impossible. Remember that data can be fit for one purpose and not for another.</p>"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  }
+]
