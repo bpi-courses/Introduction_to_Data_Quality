@@ -9,7 +9,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Test your knowledge",
+    "title": "Good quality data ",
     "displayTitle": "",
     "body": "<p>What is good quality data?</p>",
     "_id": "5f92e08b3b0a63208a7b0f17",
@@ -35,7 +35,7 @@
       {
         "text": "Data that is held in reporting systems",
         "_shouldBeSelected": false,
-        "feedback": "<p>Data can be cleaned when it is moved to a reporting system but it's not a guarantee of good quality. Also, good quality data can exist in operational systems too.</p>"
+        "feedback": "<p>Incorrect.</p><p>Data can be cleaned when it is moved to a reporting system but it's not a guarantee of good quality. Also, good quality data can exist in operational systems too.</p>"
       },
       {
         "text": "Data that is fit for the purpose for which it is used",
@@ -48,18 +48,18 @@
         "feedback": "<p>Incorrect.</p><p>Having&nbsp;a lot of decimal points may mean that the value is very precise, but it doesn't mean that it's right, or consistent with other data.</p>"
       }
     ],
-    "_attempts": 1,
+    "_attempts": 2,
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
     "_canShowMarking": true,
-    "_shouldDisplayAttempts": true,
+    "_shouldDisplayAttempts": false,
     "_isRandom": false,
     "_recordInteraction": true,
     "_questionWeight": 1,
     "_selectable": 1,
     "_feedback": {
       "title": "",
-      "correct": "",
+      "correct": "<p>Correct.&nbsp;</p><p>When data is fit for purpose it is&nbsp;less likely to be misleading and we can make effective decisions using the data.</p>",
       "_incorrect": {
         "final": "",
         "notFinal": ""
@@ -104,7 +104,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Test your knowledge",
+    "title": "Impacts of poor quality data",
     "displayTitle": "",
     "body": "<p>What impacts can poor quality data have?</p>",
     "_id": "5f92ed543b0a63208a7b0f25",
@@ -206,7 +206,7 @@
     "_disableAccessibilityState": false,
     "title": "The data quality dimensions",
     "displayTitle": "The data quality dimensions",
-    "body": "<p>According to the Data Management Association (DAMA), data quality dimensions are “measurable features or characteristics of data”. They can be used to make assessments of data quality and identify data quality issues&nbsp;</p><p>There are six core data quality dimensions, as defined by&nbsp;DAMA UK. This is not a prescriptive list and may vary depending upon your data and your users’ needs.</p><p>&nbsp;</p>",
+    "body": "<p>According to the Data Management Association (DAMA), data quality dimensions are “measurable features or characteristics of data”. They can be used to make assessments of data quality and identify data quality issues.&nbsp;</p><p>There are six core data quality dimensions, as defined by&nbsp;DAMA UK. This is not a prescriptive list and may vary depending upon your data and your users’ needs.</p><p>&nbsp;</p>",
     "_id": "5f92f0653b0a63208a7b0f29",
     "_parentId": "5f92e1903b0a63208a7b0f18",
     "_type": "component",
@@ -298,7 +298,7 @@
     "_disableAccessibilityState": false,
     "title": "Using the data quality dimensions",
     "displayTitle": "",
-    "body": "<p>Note: there are other versions of the dimensions, if your organisation&nbsp;has a set that works for you, keep using them.</p><p>Also, if you’re a statistician, you might be familiar with the European Statistical System quality dimensions. These dimensions apply to the quality of statistics, rather than raw data. The two sets of dimensions complement one another.</p>",
+    "body": "<p>Note: there are other versions of the dimensions, if your organisation&nbsp;has a set that works for you, keep using them.</p><p>Also, if you’re a statistician, you might be familiar with the <a href=\"https://www.ons.gov.uk/methodology/methodologytopicsandstatisticalconcepts/qualityinofficialstatistics/qualitydefined\" target=\"_blank\">European Statistical System quality dimensions.</a> These dimensions apply to the quality of statistics, rather than raw data. The two sets of dimensions complement one another.</p>",
     "_id": "5f92f1ae3b0a63208a7b0f2b",
     "_parentId": "5f92f1993b0a63208a7b0f2a",
     "_type": "component",
@@ -345,7 +345,7 @@
   {
     "_component": "accordion",
     "_classes": "",
-    "_isOptional": false,
+    "_isOptional": true,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
@@ -354,7 +354,7 @@
     "_disableAccessibilityState": false,
     "title": "Course Structure",
     "displayTitle": "Course Structure",
-    "body": "<p>The modules in this course are based on the 5 data quality principles&nbsp;that can be found <a href=\"http://www.gov.uk/government/publications/the-government-data-quality-framework/the-government-data-quality-framework#Data-Quality-Principles\" target=\"_blank\">in the data quality framework.</a></p><p>These principles are guidelines to aid the creation of a strong data quality culture in your team or organisation. They explain the best practice, procedures and attitudes that will be most helpful to ensure your data is fit for purpose.</p><p>Each principle is accompanied by a set of practices which support their adoption, which will be investigated in the accompanying module.&nbsp;The assess principles has been split into multiple modules.</p><p>The 5 principles are:</p><ol><li>Commit to data quality</li><li>Know your users and their needs</li><li>Assess quality throughout the data lifecycle</li><li>Communicate data quality clearly and effectively</li><li>Anticipate changes affecting data quality</li></ol><p>&nbsp;</p><p>The 8 modules available in this course are shown below;&nbsp;take the ones that are relevant to your role. You can return to the modules at anytime.</p>",
+    "body": "<p>The modules in this course are based on the 5 data quality principles&nbsp;that can be found <a href=\"http://www.gov.uk/government/publications/the-government-data-quality-framework/the-government-data-quality-framework#Data-Quality-Principles\" target=\"_blank\">in the data quality framework.</a></p><p>These principles are guidelines to aid the creation of a strong data quality culture in your team or organisation. They explain the best practice, procedures and attitudes that will be most helpful to ensure your data is fit for purpose.</p><p>Each principle is accompanied by a set of practices which support their adoption, which will be investigated in the accompanying module.&nbsp;The assess principles has been split into multiple modules.</p><p>The five&nbsp;principles are:</p><ol><li>Commit to data quality</li><li>Know your users and their needs</li><li>Assess quality throughout the data lifecycle</li><li>Communicate data quality clearly and effectively</li><li>Anticipate changes affecting data quality</li></ol><p>&nbsp;</p><p>The eight&nbsp;modules available in this course are shown below;&nbsp;take the ones that are relevant to your role. You can return to the modules at anytime.</p>",
     "_id": "5fc7bc63155d3830851b2ebd",
     "_parentId": "600b0841680ed409e2f97e99",
     "_type": "component",
@@ -680,7 +680,7 @@
     "_disableAccessibilityState": false,
     "title": "Bespoke Support",
     "displayTitle": "",
-    "body": "<p>The&nbsp;DQHub&nbsp;offers bespoke support to organisations to improve their&nbsp;management of data quality.</p><p>There are resources on the <u><a href=\"https://www.gov.uk/government/organisations/government-data-quality-hub\" target=\"_blank\"><span style=\"color:#FFFFFF\">DQHub&nbsp;website</span></a></u> but they can also deliver training or support you with specific issues&nbsp;you’d like to tackle.&nbsp;​</p><p>For more information<u><span style=\"color:#FFFFFF\">,</span></u><span style=\"color:#FFFFFF\">&nbsp;</span><u><a href=\"mailto:dqhub@ons.gov.uk\"><span style=\"color:#FFFFFF\">email the DQHub.</span></a></u></p>",
+    "body": "<p>The&nbsp;DQHub&nbsp;offers bespoke support to organisations to improve their&nbsp;management of data quality.</p><p>There are resources on the <u><a href=\"https://www.gov.uk/government/organisations/government-data-quality-hub\" target=\"_blank\"><span style=\"color:#FFFFFF\">DQHub&nbsp;website</span></a></u> but they can also deliver training or support you with specific issues&nbsp;you’d like to tackle.&nbsp;​</p><p>For more information email us&nbsp;at<span style=\"color:#FFFFFF\">&nbsp;</span><a href=\"mailto:dqhub@ons.gov.uk\"><span style=\"color:#FFFFFF\">DQHub@ons.gov.uk</span></a>.</p>",
     "_id": "5fd8dacf155d3830851b317d",
     "_parentId": "5fd8dac9155d3830851b317c",
     "_type": "component",
@@ -818,8 +818,8 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Test your knowledge",
-    "displayTitle": "Test your knowledge",
+    "title": "First look at data quality",
+    "displayTitle": "",
     "body": "<p>You are&nbsp;responsible for data which is going to be migrated to a new&nbsp;system.</p><p>When should you first look at the quality of the data?​</p>",
     "_id": "5fd8fbed155d3830851b318b",
     "_parentId": "5fd8faa3155d3830851b318a",
@@ -831,7 +831,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "Select the correct answer",
@@ -859,7 +859,7 @@
     ],
     "_attempts": 1,
     "_canShowModelAnswer": true,
-    "_canShowFeedback": false,
+    "_canShowFeedback": true,
     "_canShowMarking": true,
     "_shouldDisplayAttempts": false,
     "_isRandom": false,
@@ -867,8 +867,8 @@
     "_questionWeight": 1,
     "_selectable": 1,
     "_feedback": {
-      "title": "That is correct ",
-      "correct": "",
+      "title": "Test your knowledge",
+      "correct": "<p>Correct.</p><p>If you measure before the data is migrated you've got a great baseline for the future, and you can check the quality hasn't got worse after migration.</p>",
       "_incorrect": {
         "final": "",
         "notFinal": ""
@@ -932,8 +932,8 @@
     "instruction": "Select each pin to find out more",
     "_setCompletionOn": "allItems",
     "_graphic": {
-      "src": "course/en/assets/21c35d3a65b35688a0fea74958b349c4d1a959ff.svg",
-      "alt": "4 squares titled Dataset documentation, metadata, memorandum of understanding or service level agreement and regular updates via correspondence. ",
+      "src": "course/en/assets/bdfd2435faf91e52595688d8fdcb515b42bfd8b6.svg",
+      "alt": "4 squares titled 'dataset documentation', 'metadata', 'data sharing agreements' and 'regular updates via correspondence'. ",
       "attribution": ""
     },
     "mobileBody": "",
@@ -984,9 +984,9 @@
         "_top": 5
       },
       {
-        "title": "Memorandum of Understanding or Service level agreement",
+        "title": "Data sharing agreements",
         "_ariaLevel": 0,
-        "body": "<p>Some data will be shared under a Memorandum of Understanding or a Service Level Agreement. This acts as an agreement between the organisation sharing the data and the data user.</p><p>The agreement may include information about quality, it may include minimum standards for quality. It may specify actions to take if quality of the supplied data decreases, or if the data user finds quality problems.</p><p>Setting out quality information in this way ensures expectations are clear on both sides.</p><p>&nbsp;</p><p>This is a good route of communication where formal sharing agreements are in place. It should be supported by good dataset documentation and updates.</p>",
+        "body": "<p>Some data will be shared under a Memorandum of Understanding or a Service Level Agreement. This acts as an agreement between the organisation sharing the data and the data user.</p><p>The agreement may include information about quality, and minimum standards for quality. It may specify actions to take if the quality of the supplied data decreases, or if the data user finds quality problems.</p><p>Setting out quality information in this way ensures expectations are clear on both sides.</p><p>This is a good route of communication where formal sharing agreements are in place. It should be supported by good dataset documentation and updates.</p>",
         "strapline": "Memorandum of Understanding or Service level agreement",
         "_graphic": {
           "src": "course/en/assets/c5bf0e13664cb9cac0cc7c0fafe86eca1c8b9c39.jpg",
@@ -1033,7 +1033,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Test your knowledge",
+    "title": "Data quality dimensions",
     "displayTitle": "",
     "body": "",
     "_id": "5fdcc6c6155d3830851b3326",
@@ -1138,7 +1138,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Test your knowledge",
+    "title": "Data quality dimensions",
     "displayTitle": "",
     "body": "",
     "_id": "5fdcde1a155d3830851b332a",
@@ -1243,7 +1243,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Test your knowledge",
+    "title": "Data quality dimensions",
     "displayTitle": "",
     "body": "",
     "_id": "5fdce06a155d3830851b332c",
@@ -1348,7 +1348,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Test your knowledge",
+    "title": "Data quality dimensions",
     "displayTitle": "",
     "body": "",
     "_id": "5fdce60f155d3830851b332e",
@@ -1453,7 +1453,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Test your knowledge",
+    "title": "Data quality dimensions",
     "displayTitle": "",
     "body": "",
     "_id": "5fdce70e155d3830851b3330",
@@ -1558,7 +1558,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Test your knowledge",
+    "title": "Data quality dimensions",
     "displayTitle": "",
     "body": "",
     "_id": "5fdce7d2155d3830851b3332",
@@ -1747,7 +1747,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Test your Knowledge",
+    "title": "No documentation with data ",
     "displayTitle": "",
     "body": "<p>You are doing some analysis and find a dataset you think might be useful. But there’s no documentation with them! Which of the following should you do?</p>",
     "_id": "5fe068bc155d3830851b333e",
@@ -1847,7 +1847,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Test your knowledge",
+    "title": "Sharing information about quality ",
     "displayTitle": "",
     "body": "<p>A dataset you are&nbsp;responsible for is being published as open data - anyone in the world will be able to use the data. What is the best way to share&nbsp;information about the quality?</p>",
     "_id": "5fe06a87155d3830851b3340",
@@ -1975,7 +1975,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Test your knowledge",
+    "title": "Data structures and validation rules ",
     "displayTitle": "",
     "body": "<p>Which stage of the data lifecycle is being described here?</p><p>At this stage:</p><ul><li>data structures are designed</li><li>validation rules are designed</li></ul>",
     "_id": "5fe0ca08155d3830851b3387",
@@ -2070,7 +2070,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Test your knowledge",
+    "title": "Data entry errors",
     "displayTitle": "",
     "body": "<p>Which stage of the data lifecycle do data entry errors occur?</p>",
     "_id": "5fe0cb46155d3830851b338a",
@@ -2165,7 +2165,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Test your knowledge",
+    "title": "Data quality important ",
     "displayTitle": "",
     "body": "<p>Which stage of the data lifecycle is important for data quality?</p>",
     "_id": "5fe0cbf7155d3830851b338d",
@@ -2299,7 +2299,7 @@
         "_flipDirection": "horizontal",
         "frontImage": {
           "alt": "The word What ",
-          "src": "course/en/assets/26a7c000e5257c3657a1ce54e40429de4da49e99.svg"
+          "src": "course/en/assets/8fef129fda466f76aa3e80c642c08b2a5791ed8b.svg"
         },
         "backTitle": "What is data quality?",
         "backBody": "<p>Data is high quality if it is fit for its intended purpose.</p><p>When data is fit for purpose it is&nbsp;less likely to be misleading and we can make effective decisions using the data.</p><p>Government data gets used in lots of different ways. It may be fit for its original purpose but unfit for other purposes. If so, it is important that we know about those quality concerns.</p>"
@@ -2308,25 +2308,25 @@
         "_flipDirection": "horizontal",
         "frontImage": {
           "alt": "The word Why ",
-          "src": "course/en/assets/2313657100534b6284f93b4596133784f7a606e3.svg"
+          "src": "course/en/assets/bdbedcba3286d32611027ed5f4e69b8bfe479877.svg"
         },
         "backTitle": "Why is data quality important?",
-        "backBody": "<p>Good quality data helps us understand society, improve services and design effective policies.</p><p>But using data that is not fit for purpose can mislead people and result in the wrong decisions being made.</p><p>Poor quality data can have reputational, legal and financial impacts.</p><p>Different data sets will have different risks. In some instances, lives&nbsp;may depend on having good quality data.&nbsp;</p><p>Data quality is just one aspect of good data management.​</p><p>Having good data ownership and governance will help with managing&nbsp;quality.​</p><p>Using data standards will help make your data more consistent and&nbsp;make it easier to use&nbsp;and share with others.</p>"
+        "backBody": "<p>Good quality data helps us understand society, improve services and design effective policies.</p><p>But using data that is not fit for purpose&nbsp;can mislead people and mean the wrong decisions are&nbsp;made.</p><p>Poor quality data can have reputational, legal and financial impacts.Different data sets will have different risks. Sometimes, lives&nbsp;may depend on having good quality data.&nbsp;</p><p>Data quality is just one aspect of good data management.​ Having good data ownership and governance will help with managing&nbsp;quality.​</p><p>Using data standards will help make your data more consistent and&nbsp;make it easier to use&nbsp;and share with others.</p>"
       },
       {
         "_flipDirection": "horizontal",
         "frontImage": {
           "alt": "The word Who",
-          "src": "course/en/assets/24c343d90a8bf00143c714fd9d45031009640275.svg"
+          "src": "course/en/assets/c83cf86147802602fc691174e36d8fb33c9e72d3.svg"
         },
         "backTitle": "Who is responsible for data quality?",
-        "backBody": "<p>Everyone has a responsibility for ensuring&nbsp;data is good quality.​</p>"
+        "backBody": "<p>Different people will be involved with data at different stages of its life. This is often seen as the responsibility of the people who enter or collect data. But people using, sharing and managing data also have a role to play.</p><p>Organisations may have specialists who design storage, processes and policies to help to maintain good quality.</p><p>Even if you do not use data directly, you may be making decisions based upon data.</p>"
       },
       {
         "_flipDirection": "horizontal",
         "frontImage": {
           "alt": "The word When",
-          "src": "course/en/assets/0093419874b9ae0b484893dd71b020c415c0aee3.svg"
+          "src": "course/en/assets/661d98da4db4f0778f9871d7d4d485970b88b669.svg"
         },
         "backTitle": "When is data quality important?",
         "backBody": "<p>Data quality is important at every stage of the data lifecycle. But&nbsp;different people will be involved at different&nbsp;stages.​</p><p>There is more information about the data&nbsp;lifecycle in the Know&nbsp;module of this course.&nbsp;​</p>"
@@ -2345,7 +2345,7 @@
     "_disableAccessibilityState": false,
     "title": "Meeting user needs",
     "displayTitle": "",
-    "body": "<p>It is important to consider who will using the data when improving it's quality&nbsp;</p>",
+    "body": "<p>It is important to consider who will be using the data when improving its quality.</p>",
     "_id": "600196c4680ed409e2f97dc8",
     "_parentId": "600196b2680ed409e2f97dc7",
     "_type": "component",
@@ -2411,7 +2411,7 @@
     "_disableAccessibilityState": false,
     "title": "Improving the quality of data",
     "displayTitle": "",
-    "body": "<p>Understanding the quality of our data is important but when we find&nbsp;data quality&nbsp;problems&nbsp;we need to make improvements.​</p><p>Perfect quality is almost always impossible. And, even if it is&nbsp;possible, it would cost a huge amount of time and money to achieve.&nbsp;​</p><p>So&nbsp;our improvements must focus on addressing quality problems that&nbsp;are keeping our data from being fit for purpose.</p>",
+    "body": "<p>“Perfect” quality is almost always impossible so our improvements must focus on cost-effective ways of addressing quality problems that are keeping our data from being fit for purpose.</p><p>So&nbsp;our improvements must focus on addressing quality problems that&nbsp;are keeping our data from being fit for purpose. We will waste time and money if we tackle quality problems in the wrong way.</p>",
     "_id": "6009bd20680ed409e2f97e6c",
     "_parentId": "6009bd1a680ed409e2f97e6b",
     "_type": "component",
@@ -2509,7 +2509,7 @@
       },
       "_next": {
         "_isEnabled": true,
-        "_lockUntilPageComplete": true,
+        "_lockUntilPageComplete": false,
         "_order": 0,
         "_classes": "",
         "_iconClass": "",
@@ -2629,7 +2629,7 @@
       },
       "_next": {
         "_isEnabled": true,
-        "_lockUntilPageComplete": true,
+        "_lockUntilPageComplete": false,
         "_order": 0,
         "_classes": "",
         "_iconClass": "",
@@ -2749,7 +2749,7 @@
       },
       "_next": {
         "_isEnabled": true,
-        "_lockUntilPageComplete": true,
+        "_lockUntilPageComplete": false,
         "_order": 0,
         "_classes": "",
         "_iconClass": "",
@@ -2869,7 +2869,7 @@
       },
       "_next": {
         "_isEnabled": true,
-        "_lockUntilPageComplete": true,
+        "_lockUntilPageComplete": false,
         "_order": 0,
         "_classes": "",
         "_iconClass": "",
@@ -2989,7 +2989,7 @@
       },
       "_next": {
         "_isEnabled": true,
-        "_lockUntilPageComplete": true,
+        "_lockUntilPageComplete": false,
         "_order": 0,
         "_classes": "",
         "_iconClass": "",
@@ -3109,7 +3109,7 @@
       },
       "_next": {
         "_isEnabled": true,
-        "_lockUntilPageComplete": true,
+        "_lockUntilPageComplete": false,
         "_order": 0,
         "_classes": "",
         "_iconClass": "",
@@ -3397,9 +3397,9 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "What is data?",
+    "title": "Data in Government",
     "displayTitle": "",
-    "body": "<p>Data is defined as facts and statistics collected together for reference or analysis.&nbsp;</p><p>There are many types and forms&nbsp;of government data. Some is collected in real time, some is entered by our staff or customers, some is gathered through research and surveys.</p><p>Below are some examples of data held by the UK government.&nbsp;</p>",
+    "body": "<p>Data is vital to the work of the UK government. It is the foundation of our services and our decision making.&nbsp;</p><p>There are many types and forms&nbsp;of government data. Some is collected in real time, some is entered by our staff or customers, some is gathered through research and surveys.</p><p>Below are some examples of data held by the UK government.&nbsp;</p>",
     "_id": "6012c58b680ed409e2f97ef3",
     "_parentId": "6012c583680ed409e2f97ef2",
     "_type": "component",
@@ -3444,7 +3444,7 @@
         "src": "course/en/assets/6a0d87d31ff8727c1038d6f1f2c0965dc9aa03ab.jpg",
         "_captions": [
           {
-            "text": "Government spending",
+            "text": "Tax Self Assessment Data",
             "top": "",
             "left": "",
             "width": ""
@@ -3496,8 +3496,8 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "The Data Lifeycle",
-    "displayTitle": "The Data Lifeycle",
+    "title": "The data lifeycle",
+    "displayTitle": "The data lifeycle",
     "body": "<p>The data lifecycle is a way of describing the different stages data may&nbsp;go through during its lifetime.​</p><p>Understanding the lifecycle of a data set can help you understand:​</p><ul><li><p>different data users​</p></li><li><p>where quality problems happen​</p></li></ul><p>​It will be different for all data sets.</p><p>&nbsp;</p><p>The data lifecycle can and should change depending on what data is being collected or produced and used. ​</p><p>Some organisations might&nbsp;emphasise different steps, or&nbsp;include different&nbsp;steps.</p><p>&nbsp;</p>",
     "_id": "601933ee680ed409e2f97f0b",
     "_parentId": "601933d9680ed409e2f97f0a",
@@ -3550,7 +3550,7 @@
       {
         "title": "Collect, acquire, ingest",
         "_ariaLevel": 0,
-        "body": "<p>This is the stage where data is obtained into an organisation. This may be a one-off, or it may be ongoing throughout the lifetime of the data set.</p><p>Getting the data right as it enters the organisation is important and will reduce the need for rework later on.</p><p>Data quality problems that could happen at this stage include:</p><ul><li>mistakes in data entered</li><li>incomplete data</li><li>duplicated data</li></ul>",
+        "body": "<p>This is the stage where data is obtained by&nbsp;an organisation. This may be a one-off, or it may be ongoing throughout the lifetime of the data set.</p><p>Getting the data right as it enters the organisation is important and will reduce the need for rework later on.</p><p>Data quality problems that could happen at this stage include:</p><ul><li>mistakes in data entered</li><li>incomplete data</li><li>duplicated data</li></ul>",
         "strapline": "Collect, acquire, ingest",
         "_graphic": {
           "src": "course/en/assets/70f7380e57809158a84ec80cf7b0d9024e742094.svg",
@@ -3654,7 +3654,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Test your knowledge",
+    "title": "Most effective fix",
     "displayTitle": "",
     "body": "<p>When plotting our schools data on a map they all appear in the North Sea.&nbsp;</p><p>Which fix will be most&nbsp;effective in the long run?</p>",
     "_id": "60197854680ed409e2f97f25",
@@ -3749,7 +3749,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Test your knowledge",
+    "title": "Most effective fix",
     "displayTitle": "",
     "body": "<p>We published a data set that has quality problems. Lots of the site names are blank.&nbsp;</p><p>Where would be the most effective place to fix it?</p>",
     "_id": "60197cf5680ed409e2f97f27",
@@ -3846,7 +3846,7 @@
     "_disableAccessibilityState": false,
     "title": "Now it's your turn",
     "displayTitle": "Now it's your turn",
-    "body": "<p>Pick one of the following things to do;</p><ol><li>Tell a colleague or friend something that you have learnt about data quality</li><li>Ask a colleague or manager&nbsp;about the quality of the data that you use in your work</li><li>Go away and look&nbsp;at the <a href=\"https://www.gov.uk/government/publications/the-government-data-quality-framework\" target=\"_blank\">Data Quality Framework</a></li><li>Get in touch with the <a href=\"mailto:DQHub@ons.gov.uk\">DQHub</a> for more information&nbsp;</li></ol>",
+    "body": "<p>Pick one of the following things to do;</p><ol><li>Tell a colleague or friend something that you have learnt about data quality</li><li>Ask a colleague or manager&nbsp;about the quality of the data that you use in your work</li><li>Take a&nbsp;look&nbsp;at the <a href=\"https://www.gov.uk/government/publications/the-government-data-quality-framework\" target=\"_blank\">Data Quality Framework</a></li><li>Get in touch with the DQHub by emailing <a href=\"mailto:dqhub@ons.gov.uk\">DQHub@ons.gov.uk</a>&nbsp;for more information&nbsp;</li></ol>",
     "_id": "601abf6d680ed409e2f97f3c",
     "_parentId": "601abf67680ed409e2f97f3b",
     "_type": "component",
@@ -3874,7 +3874,7 @@
     "_disableAccessibilityState": false,
     "title": "Tackling data quality issues",
     "displayTitle": "",
-    "body": "<p>There are lots ways to tackle data quality problems.</p><p>Good&nbsp;improvements should:​</p><ul><li><p>have a long-term effect​</p></li><li><p>should address problems with the greatest impact&nbsp;​</p></li><li><p>tackle the root cause of a problem&nbsp;​</p></li><li><p>happen as early as possible in the data lifecycle​</p></li><li><p>be&nbsp;cost&nbsp;effective​</p></li></ul>",
+    "body": "<p>There are lots of ways to tackle data quality problems.</p><p>Good&nbsp;improvements should:​</p><ul><li><p>have a long-term effect​</p></li><li><p>should address problems with the greatest impact&nbsp;​</p></li><li><p>tackle the root cause of a problem&nbsp;​</p></li><li><p>happen as early as possible in the data lifecycle​</p></li><li><p>be&nbsp;cost&nbsp;effective​</p></li></ul>",
     "_id": "601c1a64680ed409e2f97fd2",
     "_parentId": "601c1a57680ed409e2f97fd1",
     "_type": "component",
@@ -4076,7 +4076,7 @@
     "_disableAccessibilityState": false,
     "title": "Tools and techniques",
     "displayTitle": "Tools and techniques",
-    "body": "<p>The Government Data Quality Hub recommends using Data Quality Action Plans (DQAPs) to bring these good practices together.</p><p>A DQAP contains: a defined set of measurements to establish whether a dataset is fit for purpose; results of the measurements; root cause analysis of problem areas; agreed actions for addressing quality problems.</p><p>For more information about DQAPs, email the Government Data Quality Hub at dqhub@ons.gov.uk</p>",
+    "body": "<p>The Government Data Quality Hub recommends using Data Quality Action Plans (DQAPs) to bring these good practices together.</p><p>A DQAP contains: a defined set of measurements to establish whether a dataset is fit for purpose; results of the measurements; root cause analysis of problem areas; agreed actions for addressing quality problems.</p><p>For more information about DQAPs, <a href=\"mailto:dqhub@ons.gov.uk\">email the Government Data Quality Hub</a>.</p>",
     "_id": "60300ed4680ed409e2f980a9",
     "_parentId": "60300ebd680ed409e2f980a8",
     "_type": "component",
@@ -4104,7 +4104,7 @@
     "_disableAccessibilityState": false,
     "title": "What does good look like?",
     "displayTitle": "What does good look like?",
-    "body": "<p>Good data quality measurements should be:</p><ul><li>Evidence based</li><li>Prioritised</li><li>Proactive</li></ul><p>&nbsp;</p>",
+    "body": "<p>Good data quality measurements should be:</p><ul><li>evidence based</li><li>prioritised</li><li>proactive</li></ul><p>&nbsp;</p>",
     "_id": "60390fc1680ed409e2f9818a",
     "_parentId": "60300a02680ed409e2f980a0",
     "_type": "component",
@@ -4138,7 +4138,7 @@
           "src": "course/en/assets/cb3ef9bd287503e2af1e14200e5dcf59e859df18.svg"
         },
         "backTitle": "Prioritised ",
-        "backBody": "<p>The dimensions are always useful but they are most effective when they're used to measure the right things.</p><p>You should start with the datasets that are most important to your organisation.</p><p>Within your dataset, start by measuring the fields or records that have the biggest impact on fitness for purpose. Resist the instinct to measure everything! If you focus on fields or criteria that don't matter, you may miss the problems that are having bigger impacts.</p><p>Always focus on the purpose of the data.</p>"
+        "backBody": "<p>The dimensions are always useful but they are most effective when they're used to measure the right things. You should start with the datasets that are most important to your organisation.</p><p>Within your dataset, start by measuring the fields or records that have the biggest impact on fitness for purpose. Resist the instinct to measure everything! If you focus on fields or criteria that don't matter, you may miss the problems that are having bigger impacts.</p><p>Always focus on the purpose of the data.</p>"
       },
       {
         "_flipDirection": "horizontal",
@@ -4147,7 +4147,7 @@
           "src": "course/en/assets/8d57f739fdfdba413a191c3600a33b3626f12da5.svg"
         },
         "backTitle": "Proactive",
-        "backBody": "<p>When you've defined how to measure your dataset, record the results. Agree a schedule for re-measuring the quality regularly.</p><p>Checking the quality regularly will give you early warning of any problems, and show you whether the improvements you make are having an effect.</p><p>Different datasets will need checking at different intervals. A fast-changing operational dataset (such as customer details) may need checking every month, a slow-changing dataset (such as constituency boundaries) may need checking only after major updates.</p><p>Whatever frequency you decide, regularly re-measure the quality and record the results.</p>"
+        "backBody": "<p>When you have defined how to measure your dataset, record the results an agree a schedule for re-measuring the quality regularly.</p><p>Checking&nbsp;quality regularly will give you early warning of any problems, and show you whether the improvements you make are having an effect.</p><p>Different datasets will need checking at different intervals. A fast-changing operational dataset (such as customer details) may need checking every month, a slow-changing dataset (such as constituency boundaries) may only need checking&nbsp;after major updates.</p><p>Whatever frequency you decide, regularly re-measure the quality and record the results.</p>"
       }
     ]
   },
@@ -4417,7 +4417,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Test your knowledge",
+    "title": "Measuring data quality ",
     "displayTitle": "",
     "body": "<p>Which of the following&nbsp;is important when measuring data quality?</p>",
     "_id": "603f7539680ed409e2f98255",
@@ -4430,7 +4430,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "Select the correct answer ",
@@ -4501,5 +4501,33 @@
       "remainingAttemptsText": "",
       "remainingAttemptText": ""
     }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p style=\"text-align:center\">You have now reached the end of this course</p><p style=\"text-align:center\">Please take some time to give us <u><a href=\"https://www.smartsurvey.co.uk/s/7PREDF/\" target=\"_blank\"><span style=\"color:#FFFFFF\">feedback on the course by clicking on&nbsp;this link</span></a></u><span style=\"color:#FFFFFF\">.</span></p>",
+    "_id": "60f57729680ed409e2f99221",
+    "_parentId": "60f57702680ed409e2f99220",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
   }
 ]

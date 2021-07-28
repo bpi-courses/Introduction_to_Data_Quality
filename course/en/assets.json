@@ -14,56 +14,6 @@
     "description": "Handshake from unsplash ",
     "tags": []
   },
-  "26a7c000e5257c3657a1ce54e40429de4da49e99.svg": {
-    "title": "What.svg",
-    "description": "What icon",
-    "tags": [
-      {
-        "title": "DQHub",
-        "_id": "6009728e680ed409e2f97e65"
-      }
-    ]
-  },
-  "0093419874b9ae0b484893dd71b020c415c0aee3.svg": {
-    "title": "When.svg",
-    "description": "When icon",
-    "tags": [
-      {
-        "title": "DQHub",
-        "_id": "6009728e680ed409e2f97e65"
-      }
-    ]
-  },
-  "24c343d90a8bf00143c714fd9d45031009640275.svg": {
-    "title": "Who.svg",
-    "description": "Who icon",
-    "tags": [
-      {
-        "title": "DQHub",
-        "_id": "6009728e680ed409e2f97e65"
-      }
-    ]
-  },
-  "2313657100534b6284f93b4596133784f7a606e3.svg": {
-    "title": "Why.svg",
-    "description": "Why icon",
-    "tags": [
-      {
-        "title": "DQHub",
-        "_id": "6009728e680ed409e2f97e65"
-      }
-    ]
-  },
-  "21c35d3a65b35688a0fea74958b349c4d1a959ff.svg": {
-    "title": "Communication_methods.svg",
-    "description": "Communication methods for hot graphic",
-    "tags": [
-      {
-        "title": "DQHub",
-        "_id": "6009728e680ed409e2f97e65"
-      }
-    ]
-  },
   "7fc25ad0987dc9349d50eb7cccca544719ba6e6c.jpg": {
     "title": "PoisonSymbol.jpg",
     "description": "Poison symbol for data types",
@@ -385,6 +335,90 @@
       {
         "title": "DQHub",
         "_id": "6009728e680ed409e2f97e65"
+      }
+    ]
+  },
+  "8fef129fda466f76aa3e80c642c08b2a5791ed8b.svg": {
+    "title": "What2.svg",
+    "description": "What Tile - larger size",
+    "tags": [
+      {
+        "title": "DQHub",
+        "_id": "6009728e680ed409e2f97e65"
+      },
+      {
+        "title": "Data Quality",
+        "_id": "6009728b680ed409e2f97e64"
+      }
+    ]
+  },
+  "661d98da4db4f0778f9871d7d4d485970b88b669.svg": {
+    "title": "When2.svg",
+    "description": "When icon - bigger than previous",
+    "tags": [
+      {
+        "title": "DQHub",
+        "_id": "6009728e680ed409e2f97e65"
+      },
+      {
+        "title": "Data Quality",
+        "_id": "6009728b680ed409e2f97e64"
+      }
+    ]
+  },
+  "bdbedcba3286d32611027ed5f4e69b8bfe479877.svg": {
+    "title": "Why2.svg",
+    "description": "Why icon - bigger than previous",
+    "tags": [
+      {
+        "title": "DQHub",
+        "_id": "6009728e680ed409e2f97e65"
+      },
+      {
+        "title": "Data Quality",
+        "_id": "6009728b680ed409e2f97e64"
+      }
+    ]
+  },
+  "c83cf86147802602fc691174e36d8fb33c9e72d3.svg": {
+    "title": "Who2.svg",
+    "description": "Who icon - bigger than previous",
+    "tags": [
+      {
+        "title": "DQHub",
+        "_id": "6009728e680ed409e2f97e65"
+      },
+      {
+        "title": "Data Quality",
+        "_id": "6009728b680ed409e2f97e64"
+      }
+    ]
+  },
+  "bdfd2435faf91e52595688d8fdcb515b42bfd8b6.svg": {
+    "title": "Communication_methods2.svg",
+    "description": "Communication methods hot graphic - wording updated ",
+    "tags": [
+      {
+        "title": "Data Quality",
+        "_id": "6009728b680ed409e2f97e64"
+      },
+      {
+        "title": "DQHub",
+        "_id": "6009728e680ed409e2f97e65"
+      }
+    ]
+  },
+  "aa1d0e269e74d65a79fe13466c440e62ccd6aa2d.docx": {
+    "title": "Accessibility_statement_Intro_Data_Quality.docx",
+    "description": "Accessibility statement for intro to data quality course",
+    "tags": [
+      {
+        "title": "DQHub",
+        "_id": "6009728e680ed409e2f97e65"
+      },
+      {
+        "title": "Data Quality",
+        "_id": "6009728b680ed409e2f97e64"
       }
     ]
   }

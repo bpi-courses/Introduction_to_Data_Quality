@@ -89,95 +89,6 @@
     }
   },
   {
-    "title": "Data Quality Dimensions",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "5f92b6153b0a63208a7b0e7b",
-    "_parentId": "5f92b6153b0a63208a7b0e7a",
-    "_type": "article",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
-      "_attempts": -1,
-      "_isPercentageBased": true,
-      "_scoreToPass": 60,
-      "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
-      "_suppressMarking": false,
-      "_isResetOnRevisit": false,
-      "_allowResetIfPassed": false,
-      "_randomisation": {
-        "_isEnabled": false,
-        "_blockCount": -1
-      },
-      "_banks": {
-        "_isEnabled": false,
-        "_split": "",
-        "_randomisation": false
-      },
-      "_questions": {
-        "_resetType": "soft",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
-      }
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_onChildren": false,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": false,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      }
-    }
-  },
-  {
     "title": "New Article Title",
     "displayTitle": "",
     "body": "",
@@ -694,10 +605,10 @@
     }
   },
   {
-    "title": "Test your knowledge",
+    "title": "Data Quality Dimensions",
     "displayTitle": "",
     "body": "",
-    "_classes": "cBlock-02",
+    "_classes": "",
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -705,8 +616,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "5fd8faa3155d3830851b3189",
-    "_parentId": "5f92b6cf3b0a63208a7b0e86",
+    "_id": "5f92b6153b0a63208a7b0e7b",
+    "_parentId": "5f92b6153b0a63208a7b0e7a",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -783,22 +694,6 @@
     }
   },
   {
-    "title": "New Article Title",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "5fda0b7b155d3830851b3190",
-    "_parentId": "5f92b6bf3b0a63208a7b0e83",
-    "_type": "article"
-  },
-  {
     "title": "Test your knowledge",
     "displayTitle": "",
     "body": "",
@@ -810,8 +705,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "5fdcc64f155d3830851b3324",
-    "_parentId": "5f92b6153b0a63208a7b0e7a",
+    "_id": "5fd8faa3155d3830851b3189",
+    "_parentId": "5f92b6cf3b0a63208a7b0e86",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -888,6 +783,22 @@
     }
   },
   {
+    "title": "New Article Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5fda0b7b155d3830851b3190",
+    "_parentId": "5f92b6bf3b0a63208a7b0e83",
+    "_type": "article"
+  },
+  {
     "title": "Test your knowledge",
     "displayTitle": "",
     "body": "",
@@ -960,7 +871,7 @@
       }
     },
     "_pageLevelProgress": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "_vanilla": {
@@ -1077,22 +988,6 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6009bfa8680ed409e2f97e82",
-    "_parentId": "5fc79d3e155d3830851b2e9a",
-    "_type": "article"
-  },
-  {
-    "title": "New Article Title",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
     "_id": "600b0841680ed409e2f97e98",
     "_parentId": "5fc79c09155d3830851b2e93",
     "_type": "article"
@@ -1111,6 +1006,95 @@
     "_ariaLevel": 0,
     "_id": "601977a9680ed409e2f97f23",
     "_parentId": "5f92b61d3b0a63208a7b0e7d",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      }
+    }
+  },
+  {
+    "title": "Test your knowledge",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "cBlock-02",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5fdcc64f155d3830851b3324",
+    "_parentId": "5f92b6153b0a63208a7b0e7a",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -1319,8 +1303,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6009bf26680ed409e2f97e76",
-    "_parentId": "5f92b6153b0a63208a7b0e7a",
+    "_id": "6009bf89680ed409e2f97e7f",
+    "_parentId": "5f92b6cf3b0a63208a7b0e86",
     "_type": "article"
   },
   {
@@ -1335,8 +1319,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6009bf89680ed409e2f97e7f",
-    "_parentId": "5f92b6cf3b0a63208a7b0e86",
+    "_id": "6009bfa8680ed409e2f97e82",
+    "_parentId": "5fc79d3e155d3830851b2e9a",
     "_type": "article"
   },
   {
@@ -1636,6 +1620,22 @@
     "_ariaLevel": 0,
     "_id": "6009bed2680ed409e2f97e70",
     "_parentId": "5f92b5833b0a63208a7b0e73",
+    "_type": "article"
+  },
+  {
+    "title": "New Article Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "6009bf26680ed409e2f97e76",
+    "_parentId": "5f92b6153b0a63208a7b0e7a",
     "_type": "article"
   },
   {
