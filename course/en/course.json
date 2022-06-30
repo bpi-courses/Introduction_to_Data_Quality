@@ -107,10 +107,6 @@
       "_assessmentResults": {
         "ariaRegion": "Assessment results."
       },
-      "_hotgrid": {
-        "ariaRegion": "Selectable image component. Select each item to show more information.",
-        "popupPagination": "{{itemNumber}} / {{totalItems}}"
-      },
       "_slider": {
         "ariaRegion": "Slider. Respond to the question by selecting a value on the scale and then submit.",
         "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
@@ -149,6 +145,10 @@
       },
       "_reveal": {
         "ariaLabel": "Reveal toggle button."
+      },
+      "_hotgrid": {
+        "ariaRegion": "Selectable image component. Select each item to show more information.",
+        "popupPagination": "{{itemNumber}} / {{totalItems}}"
       }
     },
     "_extensions": {
@@ -318,8 +318,8 @@
         "_forceDownload": false,
         "title": "Accessibility statement",
         "filename": "Accessibility_statement",
-        "description": "Accessibility statement for Introduction to Data Quality Course",
-        "_link": "course/en/assets/aa1d0e269e74d65a79fe13466c440e62ccd6aa2d.docx"
+        "description": "Accessibility statement for the introduction to Data Quality course",
+        "_link": "course/en/assets/7c50b509cd1cd81031b23ca5c56b8143bcebb02b.htm"
       }
     ]
   },
