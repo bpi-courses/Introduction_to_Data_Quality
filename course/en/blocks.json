@@ -355,7 +355,7 @@
     }
   },
   {
-    "title": "New Block Title",
+    "title": "The Government Data Quality Hub",
     "displayTitle": "",
     "body": "",
     "_classes": "cBlock-01",
@@ -1042,7 +1042,7 @@
     "_type": "block"
   },
   {
-    "title": "New Block Title",
+    "title": "Navigation",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -1056,7 +1056,61 @@
     "_ariaLevel": 0,
     "_id": "6009bfa8680ed409e2f97e83",
     "_parentId": "6009bfa8680ed409e2f97e82",
-    "_type": "block"
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
   },
   {
     "title": "New Block Title",
@@ -1607,7 +1661,7 @@
     "_type": "block"
   },
   {
-    "title": "New Block Title",
+    "title": "Other training available",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -1621,7 +1675,61 @@
     "_ariaLevel": 0,
     "_id": "5fd8da88155d3830851b317a",
     "_parentId": "5fd8bfcb155d3830851b3171",
-    "_type": "block"
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
   },
   {
     "title": "New Block Title",
@@ -1956,7 +2064,7 @@
     "_type": "block"
   },
   {
-    "title": "New Block Title",
+    "title": "Bespoke support",
     "displayTitle": "",
     "body": "",
     "_classes": "cBlock-01",
@@ -2396,7 +2504,7 @@
     }
   },
   {
-    "title": "New Block Title",
+    "title": "Now it's your turn",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -2646,7 +2754,7 @@
     "title": "Complete",
     "displayTitle": "",
     "body": "",
-    "_classes": "cBlock-01",
+    "_classes": "",
     "_trackingId": 58,
     "instruction": "",
     "_isOptional": false,
